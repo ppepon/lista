@@ -1,8 +1,5 @@
 #EXTM3U
-url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide _IPTV.xml,
-https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?
-raw=true”
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCy/La.jpg" group-title="By
-@Lunarcito" tvgid="prueba", LaLigadelajusticia Tv
-Bar 1080
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+url-tvg="”
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCy/La.jpg" group-title="" 
+tvgid="dazona"
+acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
