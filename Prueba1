@@ -39,5 +39,8 @@ acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 3 1080", M. Deportes 3 1080
 acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
 
+#EXTINF:-1 tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2011/04/Eurosport-logo.jpeg" group-title="M. Deportes" tvg-id="Eurosport 1080", Eurosport 1080
+acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Logo_TVE-4K.svg/120px-Logo_TVE-4K.svg.png" group-title="4K" tvg-id="TVE 4K", TVE 4K
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
