@@ -1,5 +1,25 @@
-#EXTM3U
-url-tvg="”
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ykCy/La.jpg" group-title="" 
-tvgid="dazona"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true" 
+ 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="Champions" tvg-id="Champions 4K", Champions 4K 
+ 
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_español_logo.svg/270px-Bein_Sport_en_español_logo.svg.png" group-title="Champions" tvg-id="being", being 
+ 
 acestream://4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 1080 Multiaudio", M.Liga 1080 Multiaudio Opc1
+ 
+acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 1080 Multiaudio", M.Liga 1080 Multiaudio Opc2
+ 
+acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+ 
+#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc1
+ 
+acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+ 
+#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc2
+ 
+acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
