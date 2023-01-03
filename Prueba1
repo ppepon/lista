@@ -12,6 +12,9 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc2
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
+#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="liguilla" tvg-id="Liga bar 1080", Liga bar 1080
+acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
+
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn" tvg-id="DAZN 1 1080", DAZN 1 1080
 acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
 
