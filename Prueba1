@@ -29,3 +29,12 @@ acestream://149a38e333de920753f1388c43247283bdb05f5b
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="4K" tvg-id="Champions 4K", Champions 4K 
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 1 1080", M. Deportes 1 1080
+acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 2 1080", M. Deportes 2 1080
+acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 3 1080", M. Deportes 3 1080
+acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
