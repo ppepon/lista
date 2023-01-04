@@ -47,3 +47,6 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Logo_TVE-4K.svg/120px-Logo_TVE-4K.svg.png" group-title="4K" tvg-id="TVE 4K", TVE 4K
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1", Champions 1 
+acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
