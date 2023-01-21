@@ -27,6 +27,9 @@ acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn" tvg-id="DAZN 4 1080", DAZN 4 1080
 acestream://149a38e333de920753f1388c43247283bdb05f5b
 
+#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn" tvg-id="DAZN 1 720", DAZN 1 720
+acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="4K" tvg-id="Champions 4K", Champions 4K 
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
