@@ -69,11 +69,11 @@ acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="M. Campeones" tvg-id="Champions 3", Champions 1 
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 1080", Dazn F1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 1080", Dazn F1 1080
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1", Dazn F1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1", Dazn F1 opc2
 acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 720", Dazn F1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 720", Dazn F1 720
 acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
