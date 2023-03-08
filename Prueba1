@@ -57,16 +57,16 @@ acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1", Champions 1 
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1 Multiaudio", Champions 1 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1 Multiaudio", Champions 1 Multi 
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1 Multiaudio 2", Champions 1 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1 Multiaudio 2", Champions 1 Multi2
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
-#EXTINF:-1 tvg-logo="https://api.dondeverlo.com/img/channels/movistar-liga-campeones-2.png?v=2" group-title="M. Campeones" tvg-id="Champions 2", Champions 1 
+#EXTINF:-1 tvg-logo="https://api.dondeverlo.com/img/channels/movistar-liga-campeones-2.png?v=2" group-title="M. Campeones" tvg-id="Champions 2", Champions 2
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="M. Campeones" tvg-id="Champions 3", Champions 1 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="M. Campeones" tvg-id="Champions 3", Champions 3
 acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 1080", Dazn F1 1080
