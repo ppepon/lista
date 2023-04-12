@@ -33,6 +33,12 @@ acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="4K" tvg-id="Champions 4K", Champions 4K 
 acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 1", Champions 1 
+acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 720", Champions 720 
+acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 1 1080", M. Deportes 1 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
@@ -53,21 +59,6 @@ acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Logo_TVE-4K.svg/120px-Logo_TVE-4K.svg.png" group-title="4K" tvg-id="TVE 4K", TVE 4K
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1", Champions 1 
-acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1 Multiaudio", Champions 1 Multi 
-acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 1 Multiaudio 2", Champions 1 Multi2
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
-
-#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="M. Campeones" tvg-id="Champions 2", Champions 2
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-3-es.png" group-title="M. Campeones" tvg-id="Champions 3", Champions 3
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 1080", Dazn F1 1080
 acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
