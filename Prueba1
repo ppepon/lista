@@ -39,6 +39,9 @@ acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 720", Champions 720 
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 2", Champions 2 
+acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 1 1080", M. Deportes 1 1080
 acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
 
