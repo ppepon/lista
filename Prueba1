@@ -58,13 +58,13 @@ acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
 acestream://2ac4f28616abb43aa6131414794294aa027f2379
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/640px-Vamos.svg.png" group-title="M. Deportes" tvg-id="Vamos 1080", Vamos 1080
-acestream://f559b9fea692a86e1a1de41cd1aa667e3fa02775
+acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 1080", Dazn F1 1080
-acestream://60cf60019aeef9af6183dd05af1b89e25594ac14
+acestream://5789ca155323664edd293b848606688edf803f4d
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1", Dazn F1 opc2
-acestream://4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 720", Dazn F1 720
-acestream://a52bf7c28df63995ad427c32ebf1e517445720bb
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
