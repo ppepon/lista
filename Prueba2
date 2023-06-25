@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml" 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 1080 Multiaudio", M.Liga 1080 Multiaudio Opc1
 acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
