@@ -63,8 +63,11 @@ acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 1080", Dazn F1 1080
 acestream://5789ca155323664edd293b848606688edf803f4d
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1", Dazn F1 opc2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1", Dazn F1 1080 opc2
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 720", Dazn F1 720
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 720", Dazn F1 720 Opc 2
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
