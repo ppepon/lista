@@ -7,10 +7,10 @@ acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
 acestream://d47addf5e467cbf102ba759600303c21efb1deeb
  
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc1
-acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
  
-#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc2
-acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 720", Dazn liga 720
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="liguilla" tvg-id="Liga bar 1080", Liga bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
