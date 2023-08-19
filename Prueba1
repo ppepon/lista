@@ -1,10 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true" 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 1080 Multiaudio", M.Liga 1080 Multiaudio Opc1
-acestream://1e0214a06000e6f4847dd30cdc2fb839527be862
+acestream://1969c27658d4c8333ab2c0670802546121a774a5
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 1080 Multiaudio", M.Liga 1080 Multiaudio Opc2
-acestream://d47addf5e467cbf102ba759600303c21efb1deeb
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 720", M.Liga 720
+acestream://f031f5728b32f6089dda28edebe990cf198108d8
  
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc1
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
