@@ -8,6 +8,9 @@ acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 720", M.Liga 720
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="liguilla" tvg-id="M.Liga 1080 2 Multiaudio", M.Liga 2 1080
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
  
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="liguilla" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc1
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
