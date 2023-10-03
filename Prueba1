@@ -48,11 +48,38 @@ acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 1", Champions 1 
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 1 Opc2", Champions 1 Opc2 
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 720", Champions 720 
 acestream://3caae3914e0a77ddff6940a68e7a5eb9b5b3d9e5
 
 #EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 2", Champions 2 
 acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 2 Opc2", Champions 2 Opc2 
+acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 3", Champions 3 
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 4 SD", Champions 4 SD
+acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 5 SD", Champions 5 SD
+acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 6 SD", Champions 6 SD
+acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 7", Champions 7
+acestream://5932623d2fd7ed16b01787251b418e4f59a01cda
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="Champions 8", Champions 8
+acestream://1a4b41c02e116ed19a505551a9caa79f54c027f7
+
+#EXTINF:-1 tvg-logo="https://album.mediaset.es//parrillas/2019/08/12/1f769631fc8ea7e0af35af1106dcc79b1565608442.jpg" group-title="m. campeones" tvg-id="MultiChampions", MultiChampions
+acestream://1b48d5881337c87b89e1edefff6688fe2271d222
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 1 1080", M. Deportes 1 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
