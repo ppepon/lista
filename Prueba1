@@ -24,6 +24,9 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="liguilla" tvg-id="Liga bar 1080", Liga bar 1080
 acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3
 
+#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="liguilla" tvg-id="Movistar Plus 1080", Movistar Plus 1080
+acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn" tvg-id="DAZN 1 1080", DAZN 1 1080
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
