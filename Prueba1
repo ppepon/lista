@@ -90,6 +90,9 @@ acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 3 1080", M. Deportes 3 1080
 acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pKKYYX4/Deportes.gif" group-title="M. Deportes" tvg-id="M. Deportes 5 1080", M. Deportes 5 1080
+acestream://cc5782d37ae6b6e0bab396dd64074982d0879046
+
 #EXTINF:-1 tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2011/04/Eurosport-logo.jpeg" group-title="M. Deportes" tvg-id="Eurosport 1080", Eurosport 1080
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
