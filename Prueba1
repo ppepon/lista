@@ -53,6 +53,9 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="M. Liga" tvg-id="M. Copa", M. Copa 1080
 acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="M. Liga" tvg-id="M. superCopa", M. superCopa 1080
+acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
  
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn Liga" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc1
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
