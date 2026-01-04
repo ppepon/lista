@@ -1,1 +1,1793 @@
-{"url":"ListaSaelices.w3u","groups":[{"name":"M. Liga","image":"","stations":[{"name":"M.Liga 1080 Multiaudio Opc1","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://1969c27658d4c8333ab2c0670802546121a774a5","isHost":"true"},{"name":"M.Liga 1080 Multiaudio Opc2","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f","isHost":"true"},{"name":"M.Liga 1080 Multiaudio Opc3","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://d3de78aebe544611a2347f54d5796bd87f16c92d","isHost":"true"},{"name":"M.Liga 1080 Multiaudio Opc4","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163","isHost":"true"},{"name":"M.Liga 720 Opc1","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://f031f5728b32f6089dda28edebe990cf198108d8","isHost":"true"},{"name":"M.Liga 720 Opc2","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e","isHost":"true"},{"name":"M.Liga 2 1080 Opc1","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://26029f72a4ca831d09deefe89534818db1d105bc","isHost":"true"},{"name":"M.Liga 2 1080 Opc2","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3","isHost":"true"},{"name":"M.Liga 2 720","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://f31a586422c9244196c810c84b6c85da350318a5","isHost":"true"},{"name":"M.Liga 3 1080","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4","isHost":"true"},{"name":"M.Liga 3 720","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1","isHost":"true"},{"name":"M.Liga 4 1080","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f","isHost":"true"},{"name":"Liga bar 1080 Opc1","image":"https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png","url":"acestream://ed2a15319345fb0739590faf88d8be4cb1663bf3","isHost":"true"},{"name":"Liga bar 1080 Opc2","image":"https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png","url":"acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e","isHost":"true"},{"name":"Liga bar 1080 Opc3","image":"https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png","url":"acestream://94d34491106e00394835c8cb68aa94481339b53f","isHost":"true"},{"name":"Movistar Plus 1080 Opc1","image":"https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png","url":"acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0","isHost":"true"},{"name":"Movistar Plus 1080 Opc2","image":"https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png","url":"acestream://56ac8e227d526e722624675ccdd91b0cc850582f","isHost":"true"},{"name":"M. Copa 1080","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4","isHost":"true"},{"name":"M. superCopa 1080","image":"https://i.ibb.co/3zWF27P/Movistar-la-liga.gif","url":"acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e","isHost":"true"}]},{"name":"Dazn Liga","image":"","stations":[{"name":"Dazn liga N 1080 MultiAudio Opc1","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1","isHost":"true"},{"name":"Dazn liga 1080 MultiAudio Opc2","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://75251ba975132ec9a202806ba5bf606e87280c96","isHost":"true"},{"name":"Dazn liga 1080 MultiAudio Opc3","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://110d441ddc9713a7452588770d2bc85504672f47","isHost":"true"},{"name":"Dazn liga 1080 MultiAudio Opc4","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://ec29289b0b14756e686c03a501bae1efa05be70c","isHost":"true"},{"name":"Dazn liga 1080 MultiAudio Opc5","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://6de4794cd02f88f14354b5996823413a59a1de0f","isHost":"true"},{"name":"Dazn liga 720 Opc1","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914","isHost":"true"},{"name":"Dazn liga 720 Opc2","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb","isHost":"true"},{"name":"Dazn liga 2 1080 MultiAudio","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://97ba38d47680954be40e48bd8f43e17222fefecb","isHost":"true"}]},{"name":"Dazn","image":"","stations":[{"name":"DAZN 1 1080","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5","isHost":"true"},{"name":"DAZN 1 1080 opc 2","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://35c7f0c966ecde3390f4510bb4caded40018c07a","isHost":"true"},{"name":"DAZN 2 1080","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a","isHost":"true"},{"name":"DAZN 3 1080","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a","isHost":"true"},{"name":"DAZN 4 1080","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://149a38e333de920753f1388c43247283bdb05f5b","isHost":"true"},{"name":"DAZN 1 720","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f","isHost":"true"},{"name":"DAZN 2 720","image":"https://www.imago-images.de/bild/sp/1002389597/s.jpg","url":"acestream://7aa402bab9fff43258fbcf401881a39475f30aaf","isHost":"true"}]},{"name":"m. campeones","image":"","statio
+{
+  "name": "AcEStREAM iDs",
+  "author": "Saelices",
+  "url": "https://raw.githubusercontent.com/ppepon/lista/refs/heads/main/ListaSaelices.w3u",
+  "image": "https://images3.alphacoders.com/595/595865.jpg",
+  "info": "Lista recopilada de Ids. bY. Lukas",
+  "groups": [
+
+    {
+      "name": "EVENTOS",
+      "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+       {
+          "name": "Atlético Sanluqueño - Murcia",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png",
+          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9"
+        },
+        {
+          "name": "Real Madrid - Betis",
+          "info": "16:15",
+          "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+        },
+        {
+          "name": "Real Sociedad - Atlético de Madrid",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+        },
+        {
+          "name": "Alavés - Oviedo",
+          "info": "18:30",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
+        },
+        {
+          "name": "Sporting - Málaga",
+          "info": "14:00",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
+        },
+        {
+          "name": "Ceuta - Andorra",
+          "info": "16:15",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
+        },
+        {
+          "name": "Zaragoza - Las Palmas",
+          "info": "18:30",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
+        },
+        {
+          "name": "Deportivo - Cádiz",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
+        },
+        {
+          "name": "Albacete - Leganés",
+          "info": "18:30",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://8a05571c0c8fe53f160fb7d116cdf97243679e86"
+        },
+        {
+          "name": "Leeds - Manchester Utd.",
+          "info": "13:30",
+          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+        },
+        {
+          "name": "Fulham - Liverpool",
+          "info": "16:00",
+          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+        },
+        {
+          "name": "Manchester City - Chelsea",
+          "info": "18:30",
+          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+        },
+        {
+          "name": "Tottenham - Sunderland",
+          "info": "16:00",
+          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
+          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37"
+        }
+
+      ]
+    },
+
+    {
+      "name": "LA LIGA EA SPORT",
+      "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "MOVISTAR LaLiga (1080)(Elcano)",
+          "info": "9947",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
+        },
+        {
+          "name": "MOVISTAR LaLiga (1080 Multiaudio)(Elcano)",
+          "info": "bf1e",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
+        },
+        {
+          "name": "MOVISTAR LaLiga (1080 Multiaudio)(Elcano)",
+          "info": "9f74",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
+        },
+        {
+          "name": "MOVISTAR LaLiga (720)(Elcano)",
+          "info": "ac58",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+        },
+        {
+          "name": "MOVISTAR LaLiga (FHD)(Shickat)",
+          "info": "f231",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231"
+        },
+        {
+          "name": "MOVISTAR LaLiga (FHD)(Shickat)",
+          "info": "38a0",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://d2ddf9802ccfdc456f872eea4d24596880a638a0"
+        },
+        {
+          "name": "MOVISTAR LaLiga (NewLoop)",
+          "info": "468b",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
+        },
+        {
+          "name": "MOVISTAR LaLiga 2 (FHD)(Shickat)",
+          "info": "541d",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://911ad127726234b97658498a8b790fdd7516541d"
+        },
+        {
+          "name": "MOVISTAR LaLiga 2 (1080)(Elcano)",
+          "info": "42ec",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec"
+        },
+        {
+          "name": "MOVISTAR LaLiga 2 (720)(Elcano)",
+          "info": "d3b8",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8"
+        },
+        {
+          "name": "MOVISTAR LaLiga 3 (1080)(Elcano)",
+          "info": "1a87",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87"
+        },
+        {
+          "name": "MOVISTAR LaLiga 3 (720)(Elcano)",
+          "info": "bd39",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39"
+        },
+        {
+          "name": "MOVISTAR LaLiga 4 (1080)(Elcano)",
+          "info": "[SIN EMISION]",
+          "image": "https://i.postimg.cc/W3pV5642/La-Liga-TV-por-Movistar-Plus-2023-Logo.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(Shickat)",
+          "info": "f4b1",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(Shickat)",
+          "info": "2884",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884"
+        },
+        {
+          "name": "DAZN LaLiga (1080)(Elcano)",
+          "info": "0b05",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
+        },
+        {
+          "name": "DAZN LaLiga (1080)(Elcano)",
+          "info": "c618",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://74defb8f4ed3a917fd07c21b34f43c17107ec618"
+        },
+        {
+          "name": "DAZN LaLiga (720)(Elcano)",
+          "info": "ed1f",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(New Era VI)",
+          "info": "6892",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892"
+        },
+        {
+          "name": "DAZN LaLiga (FHD)(New Era VI)",
+          "info": "14ec",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://520950d296c952e1864a08e15af9f89f1ab514ec"
+        },
+        {
+          "name": "DAZN LaLiga 2 (FHD)(Shickat)",
+          "info": "59c3",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://5091ea94b75ba4b50b078b4102a3d0e158ef59c3"
+        },
+        {
+          "name": "DAZN LaLiga 2 (1080)(Elcano)",
+          "info": "cba8",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
+        },
+        {
+          "name": "DAZN LaLiga 2 (720)(Elcano)",
+          "info": "8d36",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
+        },
+        {
+          "name": "DAZN LaLiga 2 (FHD)(New Era)",
+          "info": "fee3",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3"
+        },
+        {
+          "name": "DAZN LaLiga 3 (1080)(Elcano)",
+          "info": "[SIN EMISION]",
+          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "LaLiga Tv Bar (FHD)(Elcano)",
+          "info": "[SIN EMISION]",
+          "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "LaLiga Tv Bar (FHD)(Elcano)",
+          "info": "[SIN EMISION]",
+          "image": "https://i.postimg.cc/ncTvcSw3/liga-bar.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "DAZN 1 BAR (FHD)(New Era)",
+          "info": "5ae3",
+          "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+          "url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3"
+        },
+        {
+          "name": "DAZN 1 BAR (HD)(New Era)",
+          "info": "b8f7",
+          "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+          "url": "acestream://97d663cba59ddd8aca032267169019b544dcb8f7"
+        },
+        {
+          "name": "DAZN 2 BAR (FHD)(New Era)",
+          "info": "b8f7",
+          "image": "https://i.postimg.cc/kGbPhRQw/dazn1bar-new.png",
+          "url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
+        }
+      ]
+    },
+
+    {
+      "name": "LA LIGA HYPERMOTION",
+      "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+      "stations": 
+      [
+        {
+          "name": "LaLiga HyperMotion (1080)(Elcano)",
+          "info": "4be0",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0"
+        },
+        {
+          "name": "LaLiga HyperMotion (720)(Elcano)",
+          "info": "c8cd",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd"
+        },
+        {
+          "name": "LaLiga HyperMotion (FHD)(Shickat)",
+          "info": "fd1f",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://762b4a6ed2e70441b0374a64f25d8d6571b9fd1f"
+        },
+        {
+          "name": "LaLiga HyperMotion 2 (1080)(Elcano)",
+          "info": "71f8",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8"
+        },
+        {
+          "name": "LaLiga HyperMotion 3 (Elcano)",
+          "info": "724e",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
+          "url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e"
+        }
+      ]
+    },
+
+    {
+      "name": "MOVISTAR PLUS",
+      "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "MOVISTAR PLUS (1080)(Elcano)",
+          "info": "582f",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+        },
+        {
+          "name": "MOVISTAR PLUS (1080)(Elcano)",
+          "info": "ab78",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(Shickat)",
+          "info": "b193",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://1d8791bd1972f6159813c2a21d1b649cca79b193"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(Shickat)",
+          "info": "ac1a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://a340c77b773a4a78a6c9aa25245a02698e05ac1a"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(New Era)",
+          "info": "0f70",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70"
+        },
+        {
+          "name": "MOVISTAR PLUS (FHD)(New Era)",
+          "info": "933b",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b"
+        },
+        {
+          "name": "MOVISTAR PLUS VI (FHD)(New Era)",
+          "info": "f74a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://5e24a1b9187fccb91553f7c7da4b36341386f74a"
+        },
+        {
+          "name": "MOVISTAR PLUS VI (FHD)(New Era)",
+          "info": "b51a",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a"
+        },
+        {
+          "name": "MOVISTAR PLUS 2 (FHD)(New Era)",
+          "info": "e09c",
+          "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
+          "url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
+        }
+      ]
+    },
+
+    {
+      "name": "COPA DEL REY ESPAÑA",
+      "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "COPA DEL REY 1 (1080)",
+          "info": "e8d1",
+          "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+          "url": "acestream://f785c45f32379c3b0e332c20bbd05a7fb311e8d1"
+        },
+        {
+          "name": "COPA DEL REY 2 (1080)",
+          "info": "61b4",
+          "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+          "url": "acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4"
+        },
+        {
+          "name": "COPA DEL REY (720)",
+          "info": "9d9d",
+          "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+          "url": "acestream://b51f2d9a15b6956a44385b6be531bcabeb099d9d"
+        }
+      ]
+    },
+
+    {
+      "name": "LIGA DE CAMPEONES",
+      "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "1bc9",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "415f",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (1080)(Elcano)",
+          "info": "406e",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (720)(Elcano)",
+          "info": "6c32",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
+          "info": "a2cc",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(NewEra)",
+          "info": "4c6a",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(SAT)(NewEra)",
+          "info": "9bd0",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(Shickat)",
+          "info": "9fda",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://6a6bcf5aa7c9481a74222b89244697b4078d9fda"
+        },
+        {
+          "name": "M. Liga de Campeones 1 (FHD)(Shickat)",
+          "info": "64a2",
+          "image": "https://i.postimg.cc/TY47pLc4/Liga-de-Campeones-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://e84ee527e76e12507449b6c92bbeb6b8f01664a2"
+        },
+        {
+          "name": "M. Liga de Campeones 2 (1080)(Elcano)",
+          "info": "29c5",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
+        },
+        {
+          "name": "M. Liga de Campeones 2 (720)(Elcano)",
+          "info": "4d5e",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
+        },
+        {
+          "name": "M. Liga de Campeones 2 (FHD)(NewEra)",
+          "info": "fccb",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+        },
+        {
+          "name": "M. Liga de Campeones 2 (FHD)(NewEra)",
+          "info": "c49f",
+          "image": "https://i.postimg.cc/WbdGh9zM/Liga-de-Campeones-2-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+        },
+        {
+          "name": "M. Liga de Campeones 3 (1080)(Elcano)",
+          "info": "2bc7",
+          "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
+        },
+        {
+          "name": "M. Liga de Campeones 3 (720)(Elcano)",
+          "info": "d0f9",
+          "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+        },
+        {
+          "name": "M. Liga de Campeones 3 (FHD)(NewEra)",
+          "info": "484d",
+          "image": "https://i.postimg.cc/yY9bDhLr/Liga-de-Campeones-3-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+        },
+        {
+          "name": "M. Liga de Campeones 4 (FHD)(NewEra)",
+          "info": "ec29",
+          "image": "https://i.postimg.cc/HxVSdbJz/Liga-de-Campeones-4-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29"
+        },
+        {
+          "name": "M. Liga de Campeones 5 (FHD)(NewEra)",
+          "info": "c2c5",
+          "image": "https://i.postimg.cc/mrqY3JD3/Liga-de-Campeones-5-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5"
+        },
+        {
+          "name": "M. Liga de Campeones 6 (FHD)(NewEra)",
+          "info": "6444",
+          "image": "https://i.postimg.cc/CLNbrz5x/Liga-de-Campeones-6-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://976983697790ab8a07b764b08843529d38bc6444"
+        },
+        {
+          "name": "M. Liga de Campeones 7 (FHD)(NewEra)",
+          "info": "b842",
+          "image": "https://i.postimg.cc/0yXDxFpg/Liga-de-Campeones-7-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://83c02982581a536d1321e38a77dc0c520b1cb842"
+        },
+        {
+          "name": "M. Liga de Campeones 8 (FHD)(NewEra)",
+          "info": "56c9",
+          "image": "https://i.postimg.cc/zGjZ74WJ/Liga-de-Campeones-8-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9"
+        }
+      ]
+    },
+
+    {
+      "name": "M DEPORTES",
+      "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "M Deportes (1080)(Elcano)",
+          "info": "84a4",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4"
+        },
+        {
+          "name": "M Deportes (720)(Elcano)",
+          "info": "93aa",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa"
+        },
+        {
+          "name": "M Deportes (FHD)(Shickat)",
+          "info": "9359",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://5d3f582738467aaf213e408601aca5cc13fa9359"
+        },
+        {
+          "name": "M Deportes (FHD)(Shickat)",
+          "info": "bd0b",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b"
+        },
+        {
+          "name": "M Deportes FHD (New Era)",
+          "info": "071a",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a"
+        },
+        {
+          "name": "M Deportes FHD (New Era)",
+          "info": "c7e5",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5"
+        },
+        {
+          "name": "M Deportes 2 (1080)(Elcano)",
+          "info": "72b0",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0"
+        },
+        {
+          "name": "M Deportes 2 (720)(Elcano)",
+          "info": "6b25",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25"
+        },
+        {
+          "name": "M Deportes 2 (FHD)(shickat)",
+          "info": "5a61",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://73d38feaa770d788848ec098470e32670fe55a61"
+        },
+        {
+          "name": "M Deportes 2 FHD (New Era)",
+          "info": "25a3",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://6e212a916c83638268047dd2757c95b14f7d25a3"
+        },
+        {
+          "name": "M Deportes 2 FHD (New Era)",
+          "info": "298c",
+          "image": "https://i.postimg.cc/MG3kQP9S/Deportes-por-Movistar-Plus-2022-logo.png",
+          "url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c"
+        },
+        {
+          "name": "M Deportes 3 (1080)(Elcano)",
+          "info": "b903",
+          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
+          "url": "acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903"
+        },
+        {
+          "name": "M Deportes 3 (720)(Elcano)",
+          "info": "d534",
+          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
+          "url": "acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534"
+        },
+        {
+          "name": "M Deportes 3 FHD (New Era)",
+          "info": "4eee",
+          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
+          "url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee"
+        },
+        {
+          "name": "M Deportes 3 FHD (shickat)",
+          "info": "296f",
+          "image": "https://i.postimg.cc/DynjPV8K/Deportes-por-Movistar-3-2022-logo.png",
+          "url": "acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f"
+        },
+        {
+          "name": "M Deportes 4 (1080)(Elcano)",
+          "info": "2a96",
+          "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
+          "url": "acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96"
+        },
+        {
+          "name": "M Deportes 4 FHD (New Era)",
+          "info": "6a53",
+          "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
+          "url": "acestream://3f97bafa133b10cfe5c62311e11501326d886a53"
+        },
+        {
+          "name": "M Deportes 4 FHD (shickat)",
+          "info": "5ba5",
+          "image": "https://i.postimg.cc/bN2ykFF8/Deportes-por-Movistar-4-2022-logo.png",
+          "url": "acestream://37825883ed185365e3194a79207347f6c7bd5ba5"
+        },
+        {
+          "name": "M Deportes 5 (1080)(Elcano)",
+          "info": "d5aa",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://7b361369a40046ad3011086f9d4ae2982fb4d5aa"
+        },
+        {
+          "name": "M Deportes 5 FHD (New Era)",
+          "info": "f916",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://5913205fb6d6d162a50222709aab6129eb7cf916"
+        },
+        {
+          "name": "M Deportes 5 FHD (shickat)",
+          "info": "c57c",
+          "image": "https://i.postimg.cc/wMRp572F/Deportes-por-Movistar-5-2022-logo.png",
+          "url": "acestream://6dc4ac4eeae18e9daec433b01db82435cf84c57c"
+        }
+      ]
+    },
+
+    {
+      "name": "DAZN",
+      "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "DAZN 1 (FHD)(Shickat)",
+          "info": "f025",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025"
+        },
+        {
+          "name": "DAZN 1 (FHD)(Shickat)",
+          "info": "94b7",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://36394be1db2e20b5997d987c32fd38c7f0f194b7"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "9a0e",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra)",
+          "info": "9928",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra VI)",
+          "info": "f025",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025"
+        },
+        {
+          "name": "DAZN 1 (FHD)(NewEra VI)",
+          "info": "94b7",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://36394be1db2e20b5997d987c32fd38c7f0f194b7"
+        },
+        {
+          "name": "DAZN 1 (1080)(ElCano)",
+          "info": "e784",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784"
+        },
+        {
+          "name": "DAZN 1 (720)(ElCano)",
+          "info": "d276",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+        },
+        {
+          "name": "DAZN 2 (FHD)(Shickat)",
+          "info": "ff37",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37"
+        },
+        {
+          "name": "DAZN 2 (FHD)(NewEra)",
+          "info": "7a35",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
+        },
+        {
+          "name": "DAZN 2 (FHD)(NewEra)",
+          "info": "a97d",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://fb2dd566824658eeab27aae19a01c09430f1a97d"
+        },
+        {
+          "name": "DAZN 2 (FHD)(NewEra VI)",
+          "info": "ff37",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37"
+        },
+        {
+          "name": "DAZN 2 (1080)(ElCano)",
+          "info": "3c9a",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
+        },
+        {
+          "name": "DAZN 2 (1080)(ElCano)",
+          "info": "8810",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+        },
+        {
+          "name": "DAZN 2 (720)(ElCano)",
+          "info": "b8ab",
+          "image": "https://i.postimg.cc/FKPjhxB6/dazn2.png",
+          "url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+        },
+        {
+          "name": "DAZN 3 (FHD)(Shickat)",
+          "info": "f460",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://4e401fdceebffdf1f09aef954844d09f6c62f460"
+        },
+        {
+          "name": "DAZN 3 (1080)(Elcano)",
+          "info": "a2e8",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8"
+        },
+        {
+          "name": "DAZN 3 FHD (New Era)",
+          "info": "8eb1",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://d641cd0fca0f467b3130754a091e2f4d22e68eb1"
+        },
+        {
+          "name": "DAZN 3 FHD (New Era)",
+          "info": "a4ea",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea"
+        },
+        {
+          "name": "DAZN 3 (FHD)(Shickat)",
+          "info": "f460",
+          "image": "https://i.postimg.cc/bNj2cMvJ/dazn3.png",
+          "url": "acestream://4e401fdceebffdf1f09aef954844d09f6c62f460"
+        },
+        {
+          "name": "DAZN 4 [1080]",
+          "info": "3102",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://4e83f23945ab3e43982045f88ec31daaa4683102"
+        },
+        {
+          "name": "DAZN 4 FHD (New Era)",
+          "info": "c1f0",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
+        },
+        {
+          "name": "DAZN 4 FHD (New Era)",
+          "info": "7f50",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
+        },
+        {
+          "name": "DAZN 4 FHD (Shickat)",
+          "info": "1693",
+          "image": "https://i.postimg.cc/gJZr1qF8/dazn4.png",
+          "url": "acestream://eb884f77ce8815cf1028c4d85e8b092c27ea1693"
+        }
+      ]
+    },
+
+    {
+      "name": "DAZN F1",
+      "image": "https://i.postimg.cc/CKmmK298/Logo-Dazn-F1.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "bb29",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://6422e8bc34282871634c81947be093c04ad1bb29"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "a553",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://c9c18ae7a9dafba1caae5beb22060f9c92bba553"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "7494",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://515efd8115482bda8d92aa6df9a882a5e5797494"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "b8cc",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra)",
+          "info": "7711",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://d5cf2dfa4fb4165ce58bf9db815088c28fec7711"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra VI)",
+          "info": "57c9",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://8c1155cdfae76eb582290c04904c98da066657c9"
+        },
+        {
+          "name": "DAZN F1 (FHD)(NewEra VI)",
+          "info": "0cd0",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://ba6e1bdc8e03da60ff572557645eb04370af0cd0"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "f6d1",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "9a69",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
+        },
+        {
+          "name": "DAZN F1 (1080)(Elcano)",
+          "info": "be55",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
+        },
+        {
+          "name": "DAZN F1 (720)(Elcano)",
+          "info": "1727",
+          "image": "https://i.postimg.cc/gcRrcDwT/DaznF1.png",
+          "url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727"
+        },
+        {
+          "name": "DAZN F1 (720)(Shickat)",
+          "info": "8fd6",
+          "image": "https://i.postimg.cc/mDVtN6TZ/dazn1.png",
+          "url": "acestream://f3b85a5fdd61f23b2c008e0d207786f438088fd6"
+        }
+      ]
+    },
+
+    {
+      "name": "MOVISTAR",
+      "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "ESTRENOS (FHD) (Shickat)",
+          "info": "1d38",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://b71478c824f787a6a696139db0d053de6fdd1d38"
+        },
+        {
+          "name": "SERIES (FHD) (New Era)",
+          "info": "891a",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
+        },
+        {
+          "name": "DOCUMENTALES (FHD) (Shickat)",
+          "info": "29e6",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://59d7f6da13c21652b1240578fe57dec0cc1529e6"
+        },
+        {
+          "name": "ORIGINALES (FHD) (Shickat)",
+          "info": "1c88",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://60fcd59471ac4268e6cd6448f068a2b518841c88"
+        },
+        {
+          "name": "CINE ESPAÑOL (FHD) (Shickat)",
+          "info": "8bd07",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://168ad4a958aa6daa26adeee9700ed0312618bd07"
+        },
+        {
+          "name": "VACACIONES (FHD) (Shickat)",
+          "info": "a343",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://a0f71ac4897b2ccdf0114b5b3b7877902376a343"
+        },
+        {
+          "name": "WESTERN (FHD) (Shickat)",
+          "info": "6765",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://860dd021db341dbd02979eb8ea650d3f9d846765"
+        },
+        {
+          "name": "INDIE (FHD) (Shickat)",
+          "info": "ba5af",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://4f35f115971f0b156baabb8efa9926b1eb8ba5af"
+        },
+        {
+          "name": "ACCION (FHD) (Shickat)",
+          "info": "fc42",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://93b2f5ede5cf2fa0cdb50419258c4f651aabfc42"
+        },
+        {
+          "name": "ACCION (FHD) (New Era)",
+          "info": "59ce",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+        },
+        {
+          "name": "COMEDIA (FHD) (Shickat)",
+          "info": "798f",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://124aa6d58fd72a763ed0349c874551bd2504798f"
+        },
+        {
+          "name": "DRAMA (FHD) (Shickat)",
+          "info": "c983",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://aff9d7e45c4fc0f97ec8ec2b6d80cd3feb87c983"
+        },
+        {
+          "name": "HITS (FHD) (Shickat)",
+          "info": "0695",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://28b9b7ba12c0f5c7e097f4b07a547f6eda9a0695"
+        },
+        {
+          "name": "CLASICOS (FHD) (Shickat)",
+          "info": "5fd1",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://095134586cd06e1488139842f1183b50b75f5fd1"
+        },
+        {
+          "name": "CLASICOS (FHD) (New Era)",
+          "info": "0c0c",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c"
+        },
+        {
+          "name": "COCINA (FHD) (Shickat)",
+          "info": "fbb3",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://db81615f1b2eebaf584edc252ddd73883123fbb3"
+        },
+        {
+          "name": "COCINA (FHD) (New Era)",
+          "info": "849b",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://96f092e1fa99062f6da14cae230b877ad3ed849b"
+        },
+        {
+          "name": "MOVISTAR NATIONAL GEOGRAPHIC (FHD) (Shickat)",
+          "info": "dfff",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff"
+        },
+        {
+          "name": "NATIONAL GEOGRAPHIC WILD (FHD) (Shickat)",
+          "info": "6d00",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://51d0b5249e229a07ecc52286f56a67c3d9df6d00"
+        },
+        {
+          "name": "PESCA Y CAZA (FHD) (Shickat)",
+          "info": "e10f",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://6f28b1b9eb9f4047a6179b300e65b03c8316e10f"
+        },
+        {
+          "name": "ONE TORO (FHD) (Shickat)",
+          "info": "43c0",
+          "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
+          "url": "acestream://1fd3dbb7d39de875ac70059d70c8768d4a2e43c0"
+        }
+      ]
+    },
+
+    {
+      "name": "TENNIS CHANNEL (HD)(NewLoop)",
+      "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Tennis Channel",
+          "info": "23ac",
+          "image": "https://i.postimg.cc/3wysQdFn/Tennis-Channel-4.jpg",
+          "url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+        }
+      ]
+    },
+
+    {
+      "name": "MOVISTAR GOLF",
+      "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "M GOLF 1 [1080]",
+          "info": "9afb",
+          "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+          "url": "acestream://872608e734992db636eb79426802cd08f4029afb"
+        },
+        {
+          "name": "M GOLF 1 FHD (New Era)",
+          "info": "1031",
+          "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+          "url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
+        },
+        {
+          "name": "M GOLF 1 [1080] (Shickat)",
+          "info": "9b48",
+          "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+          "url": "acestream://0f5550c9842eac2c295bece78968f77d84159b48"
+        },
+        {
+          "name": "M GOLF 2 FHD (New Era)",
+          "info": "e7d7",
+          "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
+          "url": "acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7"
+        }
+      ]
+    },
+
+    {
+      "name": "EUROSPORT",
+      "image": "https://i.postimg.cc/W12JpHqR/logo-eurosport.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "EuroSport (1080) (Elcano)",
+          "info": "4d0e",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
+        },
+        {
+          "name": "EuroSport (720) (Elcano)",
+          "info": "e78a",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
+        },
+        {
+          "name": "EuroSport (720) (Shickat)",
+          "info": "6df4",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://0ac6524dd3c35ae5fc76e0cfa4faeed4d6ef6df4"
+        },
+        {
+          "name": "EuroSport (FHD) (New Era)",
+          "info": "f909",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
+        },
+        {
+          "name": "EuroSport (FHD) (New Era)",
+          "info": "705d",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
+        },
+        {
+          "name": "EuroSport 2 (1080) (Elcano)",
+          "info": "1551",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+        },
+        {
+          "name": "EuroSport 2 (720) (Elcano)",
+          "info": "e78a",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
+        },
+        {
+          "name": "EuroSport 2 (1080)",
+          "info": "[UK-PO][66d8]",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8"
+        },
+        {
+          "name": "EuroSport 2 (1080)",
+          "info": "9853",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://0358f9db953e5fde91c34d7ed4bc368939b49853"
+        },
+        {
+          "name": "EuroSport 2 (1080)",
+          "info": "049d",
+          "image": "https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120519/Eurosport-2-symbol.png",
+          "url": "acestream://8e9390c1647da151a7bc0e1b37c4b4d21d83049d"
+        },
+        {
+          "name": "EuroSport 2 (FHD) (New Era)",
+          "info": "1ecc",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+        },
+        {
+          "name": "EuroSport 2 (FHD) (New Era)",
+          "info": "7031",
+          "image": "https://i.postimg.cc/GptKzZBr/Eurosport-1-symbol.png",
+          "url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+        }
+      ]
+    },
+
+    {
+      "name": "M #VAMOS",
+      "image": "https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "M #Vamos (FHD)(NewEra)",
+          "info": "a933",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://3b2a8b41e7097c16b0468b42d7de0320886fa933"
+        },
+        {
+          "name": "M #Vamos (FHD)(NewEra)",
+          "info": "2eae",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae"
+        },
+        {
+          "name": "M #Vamos (FHD)(NewEra)",
+          "info": "6b6a",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://57313e1ef438538df4feb5a6028dc78ee4f66b6a"
+        },
+        {
+          "name": "M #Vamos (1080)(Elcano)",
+          "info": "c40b",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b"
+        },
+        {
+          "name": "M #Vamos (720)(Elcano)",
+          "info": "b785",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
+        },
+        {
+          "name": "M #Vamos (FHD)(Shickat)",
+          "info": "951f",
+          "image": "https://i.postimg.cc/wBRc6GSG/vamos.png",
+          "url": "acestream://cd783ac5f4d902ec6a4f261a4849633df69c951f"
+        }
+      ]
+    },
+
+    {
+      "name": "SPORT TV",
+      "image": "https://i.postimg.cc/QxBhsxCR/Logo-Sport-Tv.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Sport Tv 1 [1080p]",
+          "info": "06de",
+          "image": "https://i.postimg.cc/cLP044Gf/Sport-TV-1-logo.png",
+          "url": "acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de"
+        },
+        {
+          "name": "Sport Tv 2 [1080p]",
+          "info": "2ace",
+          "image": "https://i.postimg.cc/7Y2f3cP1/Sport-TV-2-logo.png",
+          "url": "acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace"
+        },
+        {
+          "name": "Sport Tv 3 [1080p]",
+          "info": "0eb9",
+          "image": "https://i.postimg.cc/W3y1rmQf/Sport-TV-3-logo.png",
+          "url": "acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9"
+        }
+      ]
+    },
+
+    {
+      "name": "PPVP",
+      "image": "",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "PPVP 1",
+          "info": "0006",
+          "image": "",
+          "url": "acestream://6994af284ecab2996f9b140ef44b8da8bfee0006"
+        },
+        {
+          "name": "PPVP 2",
+          "info": "22c9",
+          "image": "",
+          "url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9"
+        },
+        {
+          "name": "PPVP 3",
+          "info": "bb48",
+          "image": "",
+          "url": "acestream://ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48"
+        },
+        {
+          "name": "PPVP 4",
+          "info": "22c9",
+          "image": "",
+          "url": "acestream://7cf437be950f3525e735be57c63f7824cab822c9"
+        }
+      ]
+    },
+
+    {
+      "name": "ESPN SPORT",
+      "image": "https://i.postimg.cc/3JB8nbyw/logo-espn.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "ESPN Argentina [1080]",
+          "info": "be00",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+        },
+        {
+          "name": "ESPN 3 Argentina [1080]",
+          "info": "7e1e",
+          "image": "https://i.postimg.cc/prL9vXKK/espn-3-logo.png",
+          "url": "acestream://b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e"
+        },
+        {
+          "name": "ESPN Uruguay [1080]",
+          "info": "be00",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+        },
+        {
+          "name": "ESPN 2 Uruguay [1080]",
+          "info": "3b9d",
+          "image": "https://i.postimg.cc/VsJ1xCCD/espn-2-logo.png",
+          "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+        },
+        {
+          "name": "ESPN 3 Uruguay [1080]",
+          "info": "a714",
+          "image": "https://i.postimg.cc/prL9vXKK/espn-3-logo.png",
+          "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
+        },
+        {
+          "name": "ESPN Extra Uruguay [1080]",
+          "info": "1612",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/ESPN_Extra_Logo_2022.webp/750px-ESPN_Extra_Logo_2022.webp.png",
+          "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
+        },
+        {
+          "name": "ESPN DEPORTES",
+          "info": "af63",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://3ce776c6eac31081239903cd45c152b27f95af63"
+        },
+        {
+          "name": "ESPN HD [US]",
+          "info": "f442",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://4b4907de51ec11087d4bed5876f2a0c68264f442"
+        },
+        {
+          "name": "ESPN 2 [BE]",
+          "info": "7e63",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63"
+        },
+        {
+          "name": "ESPN Colombia",
+          "info": "be00",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00"
+        },
+        {
+          "name": "ESPN 2 Colombia",
+          "info": "3b9d",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://e40b29774fdfd953751a71f5695f647726623b9d"
+        },
+        {
+          "name": "ESPN 3 Colombia",
+          "info": "a714",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://b97f5975dbd067655432512d4693b417bc85a714"
+        },
+        {
+          "name": "ESPN Extra Colombia",
+          "info": "1612",
+          "image": "https://i.postimg.cc/nz7j2PpQ/espn-logo.png",
+          "url": "acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612"
+        }
+      ]
+    },
+    {
+      "name": "BT SPORTS [UK]",
+      "image": "https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "BT Sport1 (UK) [1080]",
+          "info": "4d9c",
+          "image": "https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png",
+          "url": "acestream://ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c"
+        },
+        {
+          "name": "BT Sport1 (UK) [1080]",
+          "info": "3c5b",
+          "image": "https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png",
+          "url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+        },
+        {
+          "name": "BT Sport2 (UK [1080])",
+          "info": "a801",
+          "image": "https://i.postimg.cc/sD1vR6KN/BT-Sport-2-new.png",
+          "url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
+        },
+        {
+          "name": "BT Sport3 (UK) [1080]",
+          "info": "2033",
+          "image": "https://i.postimg.cc/br5YJPLF/BT-Sport-3-new.png",
+          "url": "acestream://5f966c123759de46dff29c379266b7a403452033"
+        },
+        {
+          "name": "BT Sport4 (UK) [1080]",
+          "info": "9bce",
+          "image": "https://i.postimg.cc/YCY2pJFb/BT-Sport-4-new.png",
+          "url": "acestream://fc5089d8e1519872fdf951779ccbca913acc9bce"
+        },
+        {
+          "name": "BT Sport5 (UK) [1080]",
+          "info": "7801",
+          "image": "https://i.postimg.cc/VvJ12T19/BT-Sport-5-new.png",
+          "url": "acestream://c300ecb07d854c1730b04ea022c3fb0a184d7801"
+        },
+        {
+          "name": "BT Sport6 (UK) [1080]",
+          "info": "e511",
+          "image": "https://i.postimg.cc/6prwsCsP/BT-Sport-6-new.png",
+          "url": "acestream://e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511"
+        }
+      ]
+    },
+    {
+      "name": "SKY SPORTS [UK]",
+      "image": "https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Sky Sport F1 [1080]",
+          "info": "b79c",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c"
+        },
+        {
+          "name": "Sky Sport F1 [1080]",
+          "info": "7262",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://55a762c1e48db88542771a476c65ffc309bd7262"
+        },
+        {
+          "name": "Sky Sport F1",
+          "info": "5e02",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://3251c61c831ddeae6b7feeae704a3f6c5c975e02"
+        },
+        {
+          "name": "Sky Sport F1",
+          "info": "6ab3",
+          "image": "https://i.postimg.cc/Hx1945X3/Sky-Sport-F1.png",
+          "url": "acestream://28710e9057927317c869b11d669c28a4d77a6ab3"
+        },
+        {
+          "name": "Sky Sport Football (UK)",
+          "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
+          "url": "acestream://8dbe2d515e9131fa311353537736f8c94be9b26d"
+        },
+        {
+          "name": "Sky Sport Main Event (UK)",
+          "info": "acestream:df5e   [1080p]",
+          "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sports-football.png",
+          "url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
+        }
+      ]
+    },
+    {
+      "name": "VIAPLAY SPORTS [UK]",
+      "image": "https://i.postimg.cc/jdPL0ZGP/logo-viaplay.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "ViaPlay Sports 1",
+          "info": "acestream:3565   [1080p]",
+          "image": "https://i.postimg.cc/zDjFKyBS/premier-sport-1.png",
+          "url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
+        },
+        {
+          "name": "ViaPlay Sports 2",
+          "info": "acestream:9537   [1080p]",
+          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
+          "url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537"
+        }
+      ]
+    },
+    {
+      "name": "BeIN SPORTS",
+      "image": "https://i.postimg.cc/HxFX3jyg/Logo-Bein-Sport.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "beIN SPORTS 1 [FR]",
+          "info": "f811",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://54cbfaf8ad446499aae28ae50b512d95c263f811"
+        },
+        {
+          "name": "beIN SPORTS 2 [FR]",
+          "info": "bebb",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://705e0086f2156e1d76609393666b95a5bd43bebb"
+        },
+        {
+          "name": "beIN SPORTS 1  [BE]",
+          "info": "3fe0",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+        },
+        {
+          "name": "beIN SPORTS 2  [BE]",
+          "info": "10bc",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://edb507e38394d614c9ff55805c9d354ae13210bc"
+        },
+        {
+          "name": "beIN SPORTS 3  [BE]",
+          "info": "2cf8",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8"
+        },
+        {
+          "name": "beIN SPORTS Ñ",
+          "info": "748f",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://41af6926a6010b68ba2540975761436bb077748f"
+        },
+        {
+          "name": "beIN SPORTS XtraÑ",
+          "info": "6a6e",
+          "image": "https://i.ibb.co/PhdtVMq/Bein.jpg",
+          "url": "acestream://92a7dcc55392efc6dd5d012c4ff3878891eb6a6e"
+        }
+      ]
+    },
+    {
+      "name": "ELEVEN SPORT",
+      "image": "https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Eleven Sport 1 (BE)",
+          "info": "acestream:d51b   [1080p]",
+          "image": "https://i.postimg.cc/JnytndG2/eleven-sport-1.png",
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
+        },
+        {
+          "name": "Eleven Sport 2 (PL)",
+          "info": "acestream:51f9   [1080p]",
+          "image": "https://i.postimg.cc/QtP9JZ2D/eleven-sport-2.png",
+          "url": "acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9"
+        },
+        {
+          "name": "Eleven Sport 3 (PL)",
+          "info": "acestream:f212   [1080p]",
+          "image": "https://i.postimg.cc/pXjcwDJQ/eleven-sport-3.png",
+          "url": "acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212"
+        },
+        {
+          "name": "Eleven Sport 4 (PL)",
+          "info": "acestream:8e09   [1080p]",
+          "image": "https://i.postimg.cc/52MKb6sh/eleven-sport-4.png",
+          "url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
+        }
+      ]
+    },
+    {
+      "name": "EXTREME SPORTS",
+      "image": "https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png",
+      "stations": 
+      [
+        {
+          "name": "Extreme Sports 1",
+          "info": " ",
+          "image": "https://i.postimg.cc/RhNHN7s6/Logo-extreme-canal-2.png",
+          "url": "acestream://fc29afec151a8097ba65241acf3e0da791850e6c"
+        },
+        {
+          "name": "Extreme Sports 2",
+          "info": "",
+          "image": "https://i.postimg.cc/RhNHN7s6/Logo-extreme-canal-2.png",
+          "url": "acestream://56239e8c8257170861da94a32a86d59c716a7071"
+        },
+        {
+          "name": "Extreme Sports 3 (PL)",
+          "info": " ",
+          "image": "https://i.postimg.cc/RhNHN7s6/Logo-extreme-canal-2.png",
+          "url": "acestream://73ff07648e367efebd94636047b07625f664a082"
+        }
+      ]
+    },
+    {
+      "name": "EUROSPORT 360",
+      "image": "https://i.postimg.cc/05LC4FY1/Euro-360-new.png",
+      "stations": 
+      [
+        {
+          "name": "Eurosport 360 HD 1 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://22df9a5fae8cae52fec925c2bb44b74f96a4200c"
+        },
+        {
+          "name": "Eurosport 360 HD 2 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://57f95543ac41656d473b1a27123fc413388a728c"
+        },
+        {
+          "name": "Eurosport 360 HD 3 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://7adbca42657ace1fe228142d351d0896974bbe0c"
+        },
+        {
+          "name": "Eurosport 360 HD 4 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64"
+        },
+        {
+          "name": "Eurosport 360 HD 5 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://148921c4dda96df445e253d6f26c4d092bf85809"
+        },
+        {
+          "name": "Eurosport 360 HD 6 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://005ac522315699bd93bbf743329eb2f3c347dc3f"
+        },
+        {
+          "name": "Eurosport 360 HD 7 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://b18657f64507cc859cd7edef1aef90feb053e791"
+        },
+        {
+          "name": "Eurosport 360 HD 8 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://8f4f572005ca2557743474087aa622693ba9b5fe"
+        },
+        {
+          "name": "Eurosport 360 HD 9 [DE]",
+          "info": "",
+          "image": "https://i.postimg.cc/bYQGz5Xh/Euro-360.png",
+          "url": "acestream://7993cecc31917793e2bfa2fe98faa9fe1ab62d47"
+        }
+      ]
+    },
+    {
+      "name": "RED BULL TV",
+      "image": "https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png",
+      "stations": 
+      [
+        {
+          "name": "Red Bull",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://62daab1c54565d0c5ba4e3c660f3a4a5c93adc8a"
+        },
+        {
+          "name": "Red Bull TV",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://f1e1e9cce7297a749a5bb2e75c1520f9ce73a83b"
+        },
+        {
+          "name": "Red Bull TV HD",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://647d19df70ee35100d0e95bc62ddebeebec1fabb"
+        },
+        {
+          "name": "Red Bull TV UHD",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://fefd91766cef2af2bf4ded328633fb01051d6df9"
+        },
+        {
+          "name": "RED BULL TV (2+)",
+          "info": "",
+          "image": "https://i.postimg.cc/fThn7HgB/Redbull.png",
+          "url": "acestream://a0270364634d9c49279ba61ae3d8467809fb7095"
+        }
+      ]
+    },
+    {
+      "name": "UFC",
+      "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+        },
+        {
+          "name": "UFC",
+          "info": "",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://162942adc047d0f78eac056effbe5bbec54a5e51"
+        },
+        {
+          "name": "UFC",
+          "info": "IDIOMA ESPAÑOL",
+          "image": "https://i.postimg.cc/yN6cFvWX/Fight-new.png",
+          "url": "acestream://e454681a152a86da504e63694f17f90d0586867d"
+        }
+      ]
+    },
+
+    {
+      "name": "NBA TV (US)",
+      "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+      "imageScale": "",
+      "info": "",
+      "stations": 
+      [
+        {
+          "name": "Nba Tv (US)",
+          "info": "ed95",
+          "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
+          "url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
+        }
+      ]
+    }
+
+  ]
+}
