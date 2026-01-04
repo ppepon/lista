@@ -57,8 +57,8 @@ acestream://f6beccbc4eea4bc0cda43b3e8ac14790a98b61b4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3zWF27P/Movistar-la-liga.gif" group-title="M. Liga" tvg-id="M. superCopa", M. superCopa 1080
 acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
  
-#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn Liga" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc1
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn Liga" tvg-id="Dazn liga 1080 N MultiAudio", Dazn liga N 1080 MultiAudio Opc1
+acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 
 #EXTINF:-1 tvg-logo="https://www.imago-images.de/bild/sp/1002389597/s.jpg" group-title="Dazn Liga" tvg-id="Dazn liga 1080 MultiAudio", Dazn liga 1080 MultiAudio Opc2
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
@@ -175,4 +175,5 @@ acestream://5789ca155323664edd293b848606688edf803f4d
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-f1-uk-es.png" group-title="F1" tvg-id="Dazn F1 720", Dazn F1 720
+
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
