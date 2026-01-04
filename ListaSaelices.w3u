@@ -1,5 +1,5 @@
 {
-  "name": "AcEStREAM iDs",
+  "name": "Saeliceros iDs",
   "author": "Saelices",
   "url": "https://raw.githubusercontent.com/ppepon/lista/refs/heads/main/ListaSaelices.w3u",
   "image": "https://images3.alphacoders.com/595/595865.jpg",
@@ -16,7 +16,7 @@
        {
           "name": "Atlético Sanluqueño - Murcia",
           "info": "21:00",
-          "image": "https://i.postimg.cc/JhcwXQyv/logo-real-madrid-2.png",
+          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
           "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9"
         },
         {
@@ -1791,3 +1791,4 @@
 
   ]
 }
+
