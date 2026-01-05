@@ -33,67 +33,59 @@ jobs:
           const LOGO_FUTBOL = 'https://i.postimg.cc/wv6pvckC/La-Liga2-new.png';
           
           function parseEventos(text) {
-            // Limpiar el texto y separar por bloques vacíos
-            const bloques = text.trim().split(/\n\s*\n+/);
+            const lineas = text.trim().split('\n').map(l => l.trim()).filter(Boolean);
             const eventos = [];
+            let horaGlobal = null;
             
-            for (const bloque of bloques) {
-              const lineas = bloque.split('\n').map(l => l.trim()).filter(Boolean);
-              if (lineas.length < 2) continue;
-              
-              // Buscar el hash de acestream (40 caracteres hexadecimales)
-              let hashIdx = -1;
-              for (let i = 0; i < lineas.length; i++) {
-                if (/^[a-f0-9]{40}$/i.test(lineas[i])) {
-                  hashIdx = i;
-                  break;
-                }
-              }
-              
-              if (hashIdx === -1) continue;
-              const hash = lineas[hashIdx];
-              
-              // Procesar las líneas antes del hash
-              const lineasAntes = lineas.slice(0, hashIdx);
-              
-              for (const linea of lineasAntes) {
-                // Ignorar líneas que parecen títulos generales o etiquetas
-                if (linea.toLowerCase().includes('eventos deportivos')) continue;
-                if (/^[a-z\s]+$/i.test(linea) && linea.length < 20 && !linea.includes('-')) continue;
-                
-                // Buscar hora en formato HH:MM
-                const horaMatch = linea.match(/\b(\d{1,2}:\d{2})\b/);
-                if (!horaMatch) continue;
-                
-                const hora = horaMatch[1];
-                // Obtener el nombre quitando la hora
-                let name = linea.replace(/\b\d{1,2}:\d{2}\b/, '').trim();
-                if (!name) continue;
-                
-                // Determinar el logo según el nombre
-                let logo = LOGO_FUTBOL;
-                const nameLower = name.toLowerCase();
-                if (nameLower.includes('eurosport 1') || nameLower.includes('eurosport1')) {
-                  logo = LOGO_EUROSPORT_1;
-                } else if (nameLower.includes('eurosport 2') || nameLower.includes('eurosport2')) {
-                  logo = LOGO_EUROSPORT_2;
-                } else if (
-                  nameLower.includes('basket') || 
-                  nameLower.includes('baskonia') || 
-                  nameLower.includes('baloncesto') ||
-                  (nameLower.includes('real madrid') && nameLower.includes('barça'))
-                ) {
-                  logo = LOGO_ACB;
-                }
-                
-                eventos.push({
-                  name,
-                  info: hora,
-                  url: `acestream://${hash}`,
-                  image: logo
-                });
-              }
+            // Buscar la hora global en la primera línea
+            const primeraLinea = lineas[0] || '';
+            const horaMatch = primeraLinea.match(/\b(\d{1,2}:\d{2})\b/);
+            if (horaMatch) {
+              horaGlobal = horaMatch[1];
             }
+            
+            let i = 0;
+            while (i < lineas.length) {
+              const linea = lineas[i];
+              
+              // Buscar si es un hash de acestream (40 caracteres hexadecimales)
+              if (/^[a-f0-9]{40}$/i.test(linea)) {
+                // El hash encontrado, buscar el nombre en la línea anterior
+                if (i > 0) {
+                  const nombreLinea = lineas[i - 1];
+                  
+                  // Ignorar si la línea anterior es la línea de título general
+                  if (!nombreLinea.toLowerCase().includes('eventos deportivos')) {
+                    let name = nombreLinea;
+                    let logo = LOGO_FUTBOL;
+                    
+                    // Determinar el logo según el nombre
+                    const nameLower = name.toLowerCase();
+                    if (nameLower.includes('eurosport 1') || nameLower.includes('eurosport1')) {
+                      logo = LOGO_EUROSPORT_1;
+                    } else if (nameLower.includes('eurosport 2') || nameLower.includes('eurosport2')) {
+                      logo = LOGO_EUROSPORT_2;
+                    } else if (
+                      nameLower.includes('basket') || 
+                      nameLower.includes('baskonia') || 
+                      nameLower.includes('baloncesto') ||
+                      (nameLower.includes('real madrid') && nameLower.includes('barça'))
+                    ) {
+                      logo = LOGO_ACB;
+                    }
+                    
+                    eventos.push({
+                      name,
+                      info: horaGlobal || '',
+                      url: `acestream://${linea}`,
+                      image: logo
+                    });
+                  }
+                }
+              }
+              i++;
+            }
+            
             return eventos;
           }
           
