@@ -10,20 +10,7 @@
       "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
       "imageScale": "",
       "info": "",
-      "stations": [
-        {
-          "name": "Espasae 1 1080",
-          "info": "",
-          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
-        },
-        {
-          "name": "Espasae 1 1080  Eurlig 2",
-          "info": "",
-          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
-        }
-      ]
+      "stations": []
     },
     {
       "name": "LA LIGA EA SPORT",
