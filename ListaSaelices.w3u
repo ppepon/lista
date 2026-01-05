@@ -118,6 +118,18 @@
           "info": "18:00",
           "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
           "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae"
+        },
+        {
+          "name": "EurSport 1 1080",
+          "info": "09:00",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_logo.svg",
+          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
+        },
+        {
+          "name": "EurSport 2",
+          "info": "09:00",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Eurosport_2.svg",
+          "url": "acestream://5c910d61489463515a7d42de98cc2e4a958a53f"
         }
       ]
     },
@@ -1813,5 +1825,6 @@
     }
   ]
 }
+
 
 
