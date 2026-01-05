@@ -1,0 +1,94 @@
+name: Actualizar Eventos
+
+on:
+  workflow_dispatch:
+    inputs:
+      eventos:
+        description: 'Eventos en formato texto (pega aquí el contenido de Telegram)'
+        required: true
+        type: string
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Crear archivo de eventos temporal
+        run: echo "${{ inputs.eventos }}" > eventos_temp.txt
+      
+      - name: Actualizar ListaSaelices.w3u
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          
+          const LOGO_EUROSPORT_1 = 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_logo.svg';
+          const LOGO_EUROSPORT_2 = 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Eurosport_2.svg';
+          const LOGO_ACB = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg';
+          const LOGO_FUTBOL = 'https://i.postimg.cc/wv6pvckC/La-Liga2-new.png';
+          
+          function parseEventos(text) {
+            const bloques = text.trim().split(/\n\s*\n+/);
+            const eventos = [];
+            
+            for (const bloque of bloques) {
+              const lineas = bloque.split('\n').map(l => l.trim()).filter(Boolean);
+              if (lineas.length < 2) continue;
+              
+              const hash = lineas[lineas.length - 1];
+              const partidosLineas = lineas.filter(l => /\d{1,2}:\d{2}/.test(l));
+              
+              for (const linea of partidosLineas) {
+                const m = /(.*)\s+(\d{1,2}:\d{2})$/.exec(linea);
+                if (!m) continue;
+                const name = m[1].trim();
+                const hora = m[2];
+                
+                let logo = LOGO_FUTBOL;
+                const nameLower = name.toLowerCase();
+                if (nameLower.includes('eurosport 1')) logo = LOGO_EUROSPORT_1;
+                else if (nameLower.includes('eurosport 2') || nameLower.includes('eurosport2')) logo = LOGO_EUROSPORT_2;
+                else if (nameLower.includes('basket') || nameLower.includes('baskonia') || nameLower.includes('baloncesto') || nameLower.includes('real madrid') && nameLower.includes('barça')) logo = LOGO_ACB;
+                
+                eventos.push({
+                  name,
+                  info: hora,
+                  url: `acestream://${hash}`,
+                  image: logo
+                });
+              }
+            }
+            return eventos;
+          }
+          
+          const w3uRaw = fs.readFileSync('ListaSaelices.w3u', 'utf8');
+          const lista = JSON.parse(w3uRaw);
+          
+          const eventosTxt = fs.readFileSync('eventos_temp.txt', 'utf8');
+          const nuevosEventos = parseEventos(eventosTxt);
+          
+          const grupos = lista.groups || [];
+          const idxEventos = grupos.findIndex(g => g.name === 'EVENTOS');
+          if (idxEventos === -1) {
+            throw new Error('Grupo EVENTOS no encontrado');
+          }
+          
+          // Reemplazar todos los eventos del grupo EVENTOS
+          grupos[idxEventos].stations = nuevosEventos;
+          
+          fs.writeFileSync('ListaSaelices.w3u', JSON.stringify(lista, null, 2), 'utf8');
+          console.log(`✅ Actualizados ${nuevosEventos.length} eventos en el grupo EVENTOS`);
+          EOF
+      
+      - name: Commit y push cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ListaSaelices.w3u
+          git commit -m "Actualizar eventos desde Telegram"
+          git push
