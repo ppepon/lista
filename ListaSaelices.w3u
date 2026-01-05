@@ -12,10 +12,26 @@
       "info": "",
       "stations": [
         {
+          "name": "EurSport 1 1080",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "EurSport 2",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://5c910d614894635153a7d42de98cc2e4e958a53f",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
           "name": "Egipto - Benin",
           "info": "17:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e477",
+          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
           "referer": "",
           "userAgent": ""
         },
@@ -23,7 +39,7 @@
           "name": "Nigeria - Mozambique",
           "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://0f7842f8b6c26571e5a974407b61623e56e6a088",
+          "url": "acestream://0f7842f8b6c26571e5a974407b61623e56e6a052",
           "referer": "",
           "userAgent": ""
         }
