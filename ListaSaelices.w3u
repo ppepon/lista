@@ -13,25 +13,19 @@
       "stations": [
         {
           "name": "EurSport 1 1080",
-          "info": "",
+          "info": "17:00",
           "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
         },
         {
           "name": "EurSport 1 1080 \nEurSport 2",
-          "info": "",
+          "info": "17:00",
           "url": "acestream://5c910d614894635153a7d42de98cc2e4e958a53f",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
         },
         {
-          "name": "Benin",
-          "info": "",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
-        },
-        {
-          "name": "Benin \nCampeones",
-          "info": "",
+          "name": "00 Campeones",
+          "info": "17:00",
           "url": "acestream://0f7842f8b6c26571e5a974407b61623e56e6a052",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
         }
