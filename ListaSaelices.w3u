@@ -10,128 +10,7 @@
       "image": "https://i.postimg.cc/NfQ1LMZP/logo-spain.png",
       "imageScale": "",
       "info": "",
-      "stations": [
-        {
-          "name": "Atlético Sanluqueño - Murcia",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9"
-        },
-        {
-          "name": "Real Madrid - Betis",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
-        },
-        {
-          "name": "Real Sociedad - Atlético de Madrid",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/NM8kNBZq/La-Liga-New.png",
-          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1"
-        },
-        {
-          "name": "Alavés - Oviedo",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/HxsLWGGn/dazn-laliga-new.png",
-          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
-        },
-        {
-          "name": "Sporting - Málaga",
-          "info": "14:00",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
-        },
-        {
-          "name": "Ceuta - Andorra",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
-        },
-        {
-          "name": "Zaragoza - Las Palmas",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
-        },
-        {
-          "name": "Deportivo - Cádiz",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a"
-        },
-        {
-          "name": "Albacete - Leganés",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvcKC/La-Liga2-new.png",
-          "url": "acestream://8a05571c0c8fe53f160fb7d116cdf97243679e86"
-        },
-        {
-          "name": "Leeds - Manchester Utd.",
-          "info": "13:30",
-          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
-        },
-        {
-          "name": "Fulham - Liverpool",
-          "info": "16:00",
-          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
-        },
-        {
-          "name": "Manchester City - Chelsea",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
-        },
-        {
-          "name": "Tottenham - Sunderland",
-          "info": "16:00",
-          "image": "https://i.postimg.cc/nLr4Jxt8/premier-sport-2.png",
-          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37"
-        },
-        {
-          "name": "Real Madrid - Barça",
-          "info": "12:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
-          "url": "acestream://217e5f172d4c704c5eec739fed672a53521e8f98"
-        },
-        {
-          "name": "Basket Zaragoza",
-          "info": "17:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
-          "url": "acestream://217e5f172d4c704c5eec739fed672a53521e8f98"
-        },
-        {
-          "name": "Valencia Basket - Manresa",
-          "info": "19:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
-          "url": "acestream://217e5f172d4c704c5eec739fed672a53521e8f98"
-        },
-        {
-          "name": "Baskonia - Andorra",
-          "info": "17:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
-          "url": "acestream://965b249321adbf3a1459f94c17f624022889fb8d"
-        },
-        {
-          "name": "Bàsquet Girona - Bilbao Basket",
-          "info": "18:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
-          "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae"
-        },
-        {
-          "name": "EurSport 1 1080",
-          "info": "09:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_logo.svg",
-          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
-        },
-        {
-          "name": "EurSport 2",
-          "info": "09:00",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Eurosport_2.svg",
-          "url": "acestream://5c910d61489463515a7d42de98cc2e4a958a53f"
-        }
-      ]
+      "stations": []
     },
     {
       "name": "LA LIGA EA SPORT",
@@ -357,14 +236,12 @@
         }
       ]
     },
-
     {
       "name": "MOVISTAR PLUS",
       "image": "https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "MOVISTAR PLUS (1080)(Elcano)",
           "info": "582f",
@@ -421,14 +298,12 @@
         }
       ]
     },
-
     {
       "name": "COPA DEL REY ESPAÑA",
       "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "COPA DEL REY 1 (1080)",
           "info": "e8d1",
@@ -449,14 +324,12 @@
         }
       ]
     },
-
     {
       "name": "LIGA DE CAMPEONES",
       "image": "https://i.postimg.cc/NFLRGSbF/logo-champions.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "M. Liga de Campeones 1 (1080)(Elcano)",
           "info": "1bc9",
@@ -585,14 +458,12 @@
         }
       ]
     },
-
     {
       "name": "M DEPORTES",
       "image": "https://i.postimg.cc/rmxMT8Rg/Logo-M-Deportes.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "M Deportes (1080)(Elcano)",
           "info": "84a4",
@@ -721,14 +592,12 @@
         }
       ]
     },
-
     {
       "name": "DAZN",
       "image": "https://i.postimg.cc/VvzPnpDF/Logo-Dazn-2.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "DAZN 1 (FHD)(Shickat)",
           "info": "f025",
@@ -875,14 +744,12 @@
         }
       ]
     },
-
     {
       "name": "DAZN F1",
       "image": "https://i.postimg.cc/CKmmK298/Logo-Dazn-F1.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "DAZN F1 (FHD)(NewEra)",
           "info": "bb29",
@@ -957,14 +824,12 @@
         }
       ]
     },
-
     {
       "name": "MOVISTAR",
       "image": "https://i.postimg.cc/vBZjdsM3/Movistar-Cine.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "ESTRENOS (FHD) (Shickat)",
           "info": "1d38",
@@ -1093,14 +958,12 @@
         }
       ]
     },
-
     {
       "name": "TENNIS CHANNEL (HD)(NewLoop)",
       "image": "https://i.postimg.cc/k4sFB1S7/tennis-channel-new.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Tennis Channel",
           "info": "23ac",
@@ -1109,14 +972,12 @@
         }
       ]
     },
-
     {
       "name": "MOVISTAR GOLF",
       "image": "https://i.postimg.cc/qBYg9Qhb/movistar-golf-new.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "M GOLF 1 [1080]",
           "info": "9afb",
@@ -1143,14 +1004,12 @@
         }
       ]
     },
-
     {
       "name": "EUROSPORT",
       "image": "https://i.postimg.cc/W12JpHqR/logo-eurosport.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "EuroSport (1080) (Elcano)",
           "info": "4d0e",
@@ -1225,14 +1084,12 @@
         }
       ]
     },
-
     {
       "name": "M #VAMOS",
       "image": "https://i.postimg.cc/XNwR4GkG/logo-canal-vamos.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "M #Vamos (FHD)(NewEra)",
           "info": "a933",
@@ -1271,14 +1128,12 @@
         }
       ]
     },
-
     {
       "name": "SPORT TV",
       "image": "https://i.postimg.cc/QxBhsxCR/Logo-Sport-Tv.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Sport Tv 1 [1080p]",
           "info": "06de",
@@ -1299,14 +1154,12 @@
         }
       ]
     },
-
     {
       "name": "PPVP",
       "image": "",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "PPVP 1",
           "info": "0006",
@@ -1333,14 +1186,12 @@
         }
       ]
     },
-
     {
       "name": "ESPN SPORT",
       "image": "https://i.postimg.cc/3JB8nbyw/logo-espn.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "ESPN Argentina [1080]",
           "info": "be00",
@@ -1426,8 +1277,7 @@
       "image": "https://i.postimg.cc/d1wL0wvF/Logo-Bt-Sport-new.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "BT Sport1 (UK) [1080]",
           "info": "4d9c",
@@ -1477,8 +1327,7 @@
       "image": "https://i.postimg.cc/Hs1Jjw2H/Logo-Sky-Sport.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Sky Sport F1 [1080]",
           "info": "b79c",
@@ -1521,8 +1370,7 @@
       "image": "https://i.postimg.cc/jdPL0ZGP/logo-viaplay.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "ViaPlay Sports 1",
           "info": "acestream:3565   [1080p]",
@@ -1542,8 +1390,7 @@
       "image": "https://i.postimg.cc/HxFX3jyg/Logo-Bein-Sport.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "beIN SPORTS 1 [FR]",
           "info": "f811",
@@ -1593,8 +1440,7 @@
       "image": "https://i.postimg.cc/C18XcBQC/logo-Eleven-Sport.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Eleven Sport 1 (BE)",
           "info": "acestream:d51b   [1080p]",
@@ -1624,8 +1470,7 @@
     {
       "name": "EXTREME SPORTS",
       "image": "https://i.postimg.cc/3NCP0Gkh/Logo-extreme-canal.png",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Extreme Sports 1",
           "info": " ",
@@ -1649,8 +1494,7 @@
     {
       "name": "EUROSPORT 360",
       "image": "https://i.postimg.cc/05LC4FY1/Euro-360-new.png",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Eurosport 360 HD 1 [DE]",
           "info": "",
@@ -1710,8 +1554,7 @@
     {
       "name": "RED BULL TV",
       "image": "https://i.postimg.cc/8cmv0KdL/Redbull-Tv-new.png",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Red Bull",
           "info": "",
@@ -1749,8 +1592,7 @@
       "image": "https://i.postimg.cc/Hk6VCHsX/Fight-Sports-new.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "UFC",
           "info": "",
@@ -1807,14 +1649,12 @@
         }
       ]
     },
-
     {
       "name": "NBA TV (US)",
       "image": "https://i.postimg.cc/SKjPkzTN/Logo-NBA.png",
       "imageScale": "",
       "info": "",
-      "stations": 
-      [
+      "stations": [
         {
           "name": "Nba Tv (US)",
           "info": "ed95",
@@ -1825,6 +1665,3 @@
     }
   ]
 }
-
-
-
