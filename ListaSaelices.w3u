@@ -12,14 +12,14 @@
       "info": "",
       "stations": [
         {
-          "name": "00 EurSport",
-          "info": "09:00",
+          "name": "EurSport SAELI",
+          "info": "",
           "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
         },
         {
-          "name": "00 EurSport  EurSport PRUEBA",
-          "info": "09:00",
+          "name": "EurSport SAELI  EurSport SAElilili",
+          "info": "",
           "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png"
         }
