@@ -12,10 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "Premier League West Ham - Nottingham Forest",
+          "name": "West Ham - Nottingham Forest",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Argelia - RD Congo",
+          "info": "17:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
           "referer": "",
           "userAgent": ""
         },
