@@ -12,18 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "EuroSport 1 1080",
-          "info": "",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_logo.svg",
-          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
+          "name": "FC Barcelona - Athletic Club",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "EuroSport 2",
-          "info": "",
-          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Eurosport_2.svg",
-          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
+          "name": "Manchester City - Brighton & Hove Albion",
+          "info": "20:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Fulham - Chelsea",
+          "info": "20:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37",
           "referer": "",
           "userAgent": ""
         }
