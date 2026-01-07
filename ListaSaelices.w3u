@@ -12,74 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "West Ham - Nottingham Forest",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Argelia - RD Congo",
-          "info": "17:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Costa de Marfil - Burkina Faso",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://0f7842f8b6c26571e5a974407b61623e56e6a052",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Granada-Rayo",
-          "info": "19:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "BAXI Manresa - Aris Thesalonica",
-          "info": "19:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "ASVEL - Real Madrid",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Argelia - RD Congo",
-          "info": "17:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Deportes 2",
+          "name": "EuroSport 1 1080",
           "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://73d38feaa770d788848ec098470e32670fe55a61",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_logo.svg",
+          "url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Estrella Roja - Valencia",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f",
+          "name": "EuroSport 2",
+          "info": "",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Eurosport_2.svg",
+          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
           "referer": "",
           "userAgent": ""
         }
