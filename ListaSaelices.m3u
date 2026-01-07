@@ -3,7 +3,7 @@ A continuación, el código JSON proporcionado convertido al formato **M3U** (Pl
 
 ```m3u
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="EVENTOS", Saeliceros iDs
+#EXTINF:-1 tvg-id="" tvg-logo="https://images3.alphacoders.com/595/595865.jpg" group-title="EVENTOS", Saeliceros iDsM3U
 acestream://dummy-url  <!-- URL principal NO se usa en M3U para grupos -->
 
 # ---------- GRUPO: EVENTOS ----------
@@ -552,4 +552,5 @@ acestream://e72d03fb9694164317260f684470be9ab781ed95
 4.  ¡Disfruta de los canales!
 
 💡 **Nota:**  
+
 Los enlaces usan el protocolo **`acestream://`**. Necesitas tener el cliente **[AceStream](https://acestream.org/)** instalado y en ejecución para que funcionen.
