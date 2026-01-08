@@ -12,7 +12,15 @@
       "info": "",
       "stations": [
         {
-          "name": "FC Barcelona - Athletic Club",
+          "name": "Al Hilal - Al Hazem",
+          "info": "16:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "At. Madrid - Real Madrid",
           "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
@@ -20,18 +28,10 @@
           "userAgent": ""
         },
         {
-          "name": "Manchester City - Brighton & Hove Albion",
-          "info": "20:30",
+          "name": "Arsenal - Liverpool",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Fulham - Chelsea",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://43004e955731cd3afcc34d24e5178d4b427bff37",
+          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
           "referer": "",
           "userAgent": ""
         }
