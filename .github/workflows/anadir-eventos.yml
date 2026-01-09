@@ -111,8 +111,7 @@ jobs:
           grupos[idxEventos].stations = [...grupos[idxEventos].stations, ...nuevosEventos];
           
           fs.writeFileSync('ListaSaelices.w3u', JSON.stringify(lista, null, 2), 'utf8');
-          consoleAñadirlog(`✅ Añadidos ${nuevosEventos.length} eventos en el grupo EVENTO (Total: ${grupos[idxEventos].stations.length})S`);
-          EOF
+    console.log(`✅ Añadidos ${nuevosEventos.length} eventos al grupo EVENTOS (Total: ${grupos[idxEventos].stations.length})`);          EOF
       
       - name: Commit y push cambios
         run: |
