@@ -1,11 +1,12 @@
 name: Añadir Eventos
+
 on:
-    workflow_dispatch:
-        inputs:
-            eventos:
-                description: 'Eventos en formato texto (pega aquí el contenido de Telegram)'
-                required: true
-                type: string
+  workflow_dispatch:
+    inputs:
+      eventos:
+        description: 'Eventos en formato texto (pega aquí el contenido de Telegram)'
+        required: true
+        type: string
 
 jobs:
   actualizar:
@@ -106,9 +107,12 @@ jobs:
             throw new Error('Grupo EVENTOS no encontrado');
           }
           
-    // Añadir nuevos eventos al grupo EVENTOS existente    grupos[idxEventos].stations = [...grupos[idxEventos].stations, ...nuevosEventos];          
+          // Añadir nuevos eventos al grupo EVENTOS existente
+          grupos[idxEventos].stations = [...grupos[idxEventos].stations, ...nuevosEventos];
+          
           fs.writeFileSync('ListaSaelices.w3u', JSON.stringify(lista, null, 2), 'utf8');
-    console.log(`✅ Añadidos ${nuevosEventos.length} eventos al grupo EVENTOS (Total: ${grupos[idxEventos].stations.length})`);          EOF
+          consoleAñadirlog(`✅ Añadidos ${nuevosEventos.length} eventos en el grupo EVENTO (Total: ${grupos[idxEventos].stations.length})S`);
+          EOF
       
       - name: Commit y push cambios
         run: |
