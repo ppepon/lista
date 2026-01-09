@@ -1,11 +1,11 @@
 name: Añadir Eventos
 on:
-  workflow_dispatch:
-    inputs:
-      eventos:
-        description: 'Eventos en formato texto (pega aquí el contenido de Telegram)'
-        required: true
-        type: string
+    workflow_dispatch:
+        inputs:
+            eventos:
+                description: 'Eventos en formato texto (pega aquí el contenido de Telegram)'
+                required: true
+                type: string
 
 jobs:
   actualizar:
