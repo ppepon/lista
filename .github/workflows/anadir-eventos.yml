@@ -1,0 +1,128 @@
+name: Añadir Eventos
+
+on:
+  workflow_dispatch:
+    inputs:
+      eventos:
+        description: 'Eventos en formato texto (pega aquí el contenido de Telegram)'
+        required: true
+        type: string
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Crear archivo de eventos temporal
+        run: echo "${{ inputs.eventos }}" > eventos_temp.txt
+      
+      - name: Actualizar ListaSaelices.w3u
+        run: |
+          node << 'EOF'
+          const fs = require('fs');
+          
+          const LOGO_EUROSPORT_1 = 'https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_1_logo.svg';
+          const LOGO_EUROSPORT_2 = 'https://upload.wikimedia.org/wikipedia/commons/f/f8/Eurosport_2.svg';
+          const LOGO_ACB = 'https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg';
+          const LOGO_FUTBOL = 'https://i.postimg.cc/wv6pvckC/La-Liga2-new.png';
+
+          function parseEventos(text) {
+          const eventos = [];
+          
+          const hashRegex = /\b([a-f0-9]{40})\b/gi;
+          const hashes = text.match(hashRegex) || [];
+          
+          for (const hash of hashes) {
+            const hashIndex = text.indexOf(hash);
+            if (hashIndex === -1) continue;
+            
+            const textBeforeHash = text.substring(Math.max(0, hashIndex - 200), hashIndex);
+            const lineMatch = textBeforeHash.match(/([^\n]+)\s*$/);
+            
+            if (lineMatch) {
+              let line = lineMatch[1].trim();
+              if (!line || line.length < 3) continue;
+              
+              const horaMatch = line.match(/\b(\d{1,2}:\d{2})\b/);
+              
+              let name, info;
+              
+              if (horaMatch) {
+                const hora = horaMatch[1];
+                name = line.substring(0, line.indexOf(hora)).trim();
+                info = hora;
+              } else {
+                name = line;
+                info = '';
+              }
+              
+              if (!name || name.length < 2) continue;
+              if (name.toLowerCase().includes('eventos deportivos')) continue;
+              if (name.toLowerCase().includes('copa de')) continue;
+              
+              let logo = LOGO_FUTBOL;
+              const nameLower = name.toLowerCase();
+              
+              if (nameLower.includes('eurosport 1') || nameLower.includes('eurosport1')) {
+                logo = LOGO_EUROSPORT_1;
+              } else if (nameLower.includes('eurosport 2') || nameLower.includes('eurosport2')) {
+                logo = LOGO_EUROSPORT_2;
+              } else if (nameLower.includes('basket') || nameLower.includes('acb')) {
+                logo = LOGO_ACB;
+              }
+              
+              eventos.push({
+                name: name,
+                info: info,
+                image: logo,
+                url: `acestream://${hash}`,
+                referer: '',
+                userAgent: ''
+              });
+            }
+          }
+      
+          return eventos;
+          }
+
+                
+
+          
+          
+          const w3uRaw = fs.readFileSync('ListaSaelices.w3u', 'utf8');
+          const lista = JSON.parse(w3uRaw);
+          
+          const eventosTxt = fs.readFileSync('eventos_temp.txt', 'utf8');
+          const nuevosEventos = parseEventos(eventosTxt);
+          
+          const grupos = lista.groups || [];
+          const idxEventos = grupos.findIndex(g => g.name === 'EVENTOS');
+          if (idxEventos === -1) {
+            throw new Error('Grupo EVENTOS no encontrado');
+          }
+          
+          // Reemplazar todos los eventos del grupo EVENTOS
+          grupos[idxEventos].stations = [...grupos[idxEventos].stations, ...nuevosEventos];
+          
+          fs.writeFileSync('ListaSaelices.w3u', JSON.stringify(lista, null, 2), 'utf8');
+          console.log(`✅ Actualizados ${nuevosEventos.length} eventos en el grupo EVENTOS`);
+          EOF
+      
+      - name: Commit y push cambios
+        run: |
+          rm -f eventos_temp.txt
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ListaSaelices.w3u
+          if git diff --staged --quiet; then
+            echo "No hay cambios para commitear"
+          else
+            git commit -m "Actualizar eventos desde Telegram"
+            git push
+          fi
