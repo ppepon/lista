@@ -12,58 +12,34 @@
       "info": "",
       "stations": [
         {
-          "name": "Al Hilal - Al Hazem",
-          "info": "16:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "At. Madrid - Real Madrid",
+          "name": "Camerún - Marruecos",
           "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Arsenal - Liverpool",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Al Hilal - Al Hazem",
-          "info": "16:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Real Madrid - Maccabi",
-          "info": "20:45",
+          "name": "1ª RFEF Sevilla Atlético - Villarreal B",
+          "info": "19:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "EurS",
-          "info": "",
+          "name": "LALIGA HYPERMOTION Cádiz - Sporting",
+          "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5c910d614894635153a7d42de98cc2e4a9585555",
+          "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "EurJADER",
-          "info": "",
+          "name": "LALIGA EA SPORTS Getafe - Real Sociedad",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5c910d614894635153a7d42de98cc2e4a9566666",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
           "referer": "",
           "userAgent": ""
         }
