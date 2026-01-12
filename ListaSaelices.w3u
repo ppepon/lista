@@ -12,74 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "Rayo - Mallorca",
-          "info": "14:00",
+          "name": "Sevilla - Celta",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "2 Barça-Real Madrid",
-          "info": "20:00",
+          "name": "2 Sevilla - Celta",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "3 Barça-Real Madrid",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Barça-Real Madrid",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Levante - Espanyol",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://0e50439e68aa2435b38f0563bb2f2e98f32ff4b1",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Leganés - Valladolid",
-          "info": "14:00",
+          "name": "Huesca - Córdoba",
+          "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://8ee52f6208e33706171856f99d2ed2dabd317f3a",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Granada - Castellón",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://8a05571c0c8fe53f160fb7d116cdf97243679e86",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Murcia - Hércules",
-          "info": "18:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Barça-Real Madrid",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
           "referer": "",
           "userAgent": ""
         }
