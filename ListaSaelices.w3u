@@ -12,10 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "Liga Saudí Damac - Al Ittihad",
+          "name": "Damac - Al Ittihad",
           "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Deportivo - At. Madrid",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
           "referer": "",
           "userAgent": ""
         },
@@ -36,10 +44,18 @@
           "userAgent": ""
         },
         {
-          "name": "Bundesliga Borussia Dortmund - Werder Bremen",
+          "name": "Borussia Dortmund - Werder Bremen",
           "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Roma - Torino",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
           "referer": "",
           "userAgent": ""
         }
