@@ -90,6 +90,30 @@
           "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "LIGA ENDESA Unicaja - Granada",
+          "info": "18:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Andorra - Breogán",
+          "info": "19:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://965b249321adbf3a1459f94c17f624022889fb8d",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Gran Canaria - Força Lleida",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
