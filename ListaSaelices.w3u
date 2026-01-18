@@ -74,6 +74,30 @@
           "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "San Pablo Burgos - Barcelona",
+          "info": "12:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://53962d7fb865aff73b34a3afb2905cd492f60d75",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Real Madrid - Valencia Basket",
+          "info": "19:00",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Acb_2019_logo.svg",
+          "url": "acestream://965b249321adbf3a1459f94c17f624022889fb8d",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Baskonia - Manresa",
+          "info": "17:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://f4db7197aa4b9487014ba348fca3f78121ac2cae",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
