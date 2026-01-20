@@ -12,26 +12,42 @@
       "info": "",
       "stations": [
         {
-          "name": "Elche - Sevilla",
+          "name": "Real Madrid - Mónaco",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "LALIGA HYPERMOTION Granada - Eibar",
-          "info": "20:30",
+          "name": "Villarreal - Ajax",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Premier League Brighton - Bournemouth",
+          "name": "Inter - Arsenal",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Multichampions",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Inter - Arsenal",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
           "referer": "",
           "userAgent": ""
         }
