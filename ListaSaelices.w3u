@@ -12,7 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "Real Madrid - Mónaco",
+          "name": "Slavia Praga - Barcelona",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
@@ -20,7 +20,7 @@
           "userAgent": ""
         },
         {
-          "name": "Villarreal - Ajax",
+          "name": "Atalanta - Athletic",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
@@ -28,8 +28,8 @@
           "userAgent": ""
         },
         {
-          "name": "Inter - Arsenal",
-          "info": "21:00",
+          "name": "Qarabag - Eintracht",
+          "info": "18:45",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
           "referer": "",
@@ -44,42 +44,10 @@
           "userAgent": ""
         },
         {
-          "name": "Inter - Arsenal",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Valencia - París",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Barcelona - Dubai",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Real Madrid - Milán",
-          "info": "20:45",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Real Madrid - Milán 2",
+          "name": "Multichampions",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
+          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
           "referer": "",
           "userAgent": ""
         }
