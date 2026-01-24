@@ -12,42 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Slavia Praga - Barcelona",
+          "name": "Villarreal - Real Madrid",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Atalanta - Athletic",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Qarabag - Eintracht",
-          "info": "18:45",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Multichampions",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Multichampions",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         }
