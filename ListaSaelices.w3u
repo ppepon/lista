@@ -12,82 +12,42 @@
       "info": "",
       "stations": [
         {
-          "name": "Murcia - Algeciras",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Zaragoza - Castellón",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "At. Madrid - Mallorca",
-          "info": "14:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "At. Madrid - Mallorca 2",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Real Sociedad - Celta",
-          "info": "18:30",
+          "name": "LALIGA EA SPORTS Girona - Getafe",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Barcelona - Oviedo",
-          "info": "16:15",
+          "name": "LALIGA HYPERMOTION Ceuta - Cultural",
+          "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Newcastle - Aston Villa",
-          "info": "15:00",
+          "name": "Premier League Everton - Leeds",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Crystal Palace - Chelsea",
-          "info": "15:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Al Riyadh - Al Hilal",
-          "info": "18:30",
+          "name": "Serie A Calcio Hellas Verona - Udinese",
+          "info": "20:45",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Boca Juniors - Deportivo Riestra",
-          "info": "22:30",
+          "name": "LIGA SAUDÍ Al Nassr - Al Taawoun",
+          "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
           "referer": "",
           "userAgent": ""
         }
