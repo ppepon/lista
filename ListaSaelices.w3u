@@ -26,6 +26,14 @@
           "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "Liga Argentina. Torneo Apertura Vélez - Talleres",
+          "info": "21:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
