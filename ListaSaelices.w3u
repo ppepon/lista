@@ -18,6 +18,14 @@
           "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "Euroliga de baloncesto París - Real Madrid",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
