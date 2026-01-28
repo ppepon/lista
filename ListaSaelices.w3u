@@ -12,26 +12,66 @@
       "info": "",
       "stations": [
         {
-          "name": "EurSport 2",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Euroliga de baloncesto París - Real Madrid",
+          "name": "Liverpool - Qarabag",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Liga Argentina. Torneo Apertura Vélez - Talleres",
-          "info": "21:30",
+          "name": "Barcelona - Copenhague",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4e99e755aa32c4bc043a4bb1cd1de35f9bd94dde",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "At.Madrid - Bodo/Glimt",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Athletic - Sporting Portugal",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Bayer Leverkusen - Villarreal",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Benfica-Real Madrid",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Benfica-Real Madrid op2",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "MultiChampions",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25",
           "referer": "",
           "userAgent": ""
         }
