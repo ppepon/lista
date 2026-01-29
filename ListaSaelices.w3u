@@ -12,47 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "Liverpool - Qarabag",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Barcelona - Copenhague",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "At.Madrid - Bodo/Glimt",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Athletic - Sporting Portugal",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Bayer Leverkusen - Villarreal",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5620c0ce3dcbf14a6375cb2c2d681207f45eb97d",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Benfica-Real Madrid",
+          "name": "Estrella Roja - Celta",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
@@ -60,18 +20,42 @@
           "userAgent": ""
         },
         {
-          "name": "Benfica-Real Madrid op2",
-          "info": "21:00",
+          "name": "Campeones 2",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://5866e83279307bf919068ae7a0d250e4e424e464",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "MultiChampions",
+          "name": "Betis - Feyenoord",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://bf10192dc72a98ee835a1b7ccac8b27737d02f25",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Panathinaikos - Roma",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "MultiEuropa League",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Campeones 2",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
           "referer": "",
           "userAgent": ""
         }
