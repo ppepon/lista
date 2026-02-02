@@ -12,56 +12,32 @@
       "info": "",
       "stations": [
         {
-          "name": "1 Ref",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hypermotion",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Castellón - Andorra",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "LALIGA EA SPORTS Real Madrid - Rayo",
-          "info": "14:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Betis - Valencia",
-          "info": "",
+          "name": "LALIGA EA SPORTS Mallorca - Sevilla",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Tottenham - Manchester City",
-          "info": "17:00",
+          "name": "LALIGA HYPERMOTION Mirandés - Málaga",
+          "info": "20:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Premier League Sunderland - Burnley",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "BUNDESLIGA Borussia Dortmund - Heidenheim",
-          "info": "17:30",
+          "name": "Liga Saudí Al Riyadh - Al Nasser",
+          "info": "16:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae",
           "referer": "",
