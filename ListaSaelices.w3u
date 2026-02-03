@@ -12,34 +12,42 @@
       "info": "",
       "stations": [
         {
-          "name": "LALIGA EA SPORTS Mallorca - Sevilla",
-          "info": "21:00",
+          "name": "Euroliga de baloncesto Dubai - Olympiacos",
+          "info": "17:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "LALIGA HYPERMOTION Mirandés - Málaga",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Premier League Sunderland - Burnley",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Liga Saudí Al Riyadh - Al Nasser",
-          "info": "16:00",
+          "name": "Efes - Valencia",
+          "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Barcelona - Fenerbahce",
+          "info": "20:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Deportes 2",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://3afe1af18f8ff78e9946856911b00c67477052b5",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Milán - Baskonia",
+          "info": "20:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0",
           "referer": "",
           "userAgent": ""
         }
