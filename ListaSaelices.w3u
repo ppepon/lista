@@ -12,18 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "Valencia - Athletic",
-          "info": "21:00",
+          "name": "EUROLIGA Dubai - Real Madrid",
+          "info": "17:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Alavés - Real Sociedad",
-          "info": "21:00",
+          "name": "EUROLIGA Hapoel - Valencia",
+          "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
+          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
           "referer": "",
           "userAgent": ""
         }
