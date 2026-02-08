@@ -74,6 +74,30 @@
           "url": "acestream://ed74406ccdb3c21941b919db6bffca7f1de015bb",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "Real Madrid - Granada",
+          "info": "17:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://8faa686a99697b99261346e479ead172b1d9d5d2",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Minnesota Timberwolves - Los Angeles Clippers",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Gran Canaria - Baskonia",
+          "info": "18:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://119087e842ea8857124b9405b10bb6cfffd2900c",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
