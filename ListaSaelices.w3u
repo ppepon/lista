@@ -12,50 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Sevilla - Alavés",
-          "info": "18:30",
+          "name": "Team World - Team Stars",
+          "info": "23:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Real Madrid - Real Sociedad",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hypermotion",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "1ª RFEF",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "LIGA SAUDÍ Al Fateh - Al Nasser",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://2940120bf034db79a7f5849846ccea0255172eae",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "ALL STAR GAME",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d7e6b6bb1666740a21099fe6ceb0178a14f58e0c",
+          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
           "referer": "",
           "userAgent": ""
         }
