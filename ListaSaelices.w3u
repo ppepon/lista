@@ -12,18 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Madrid 3",
+          "name": "Madrid",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Madrid 3",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
+          "url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b",
           "referer": "",
           "userAgent": ""
         }
