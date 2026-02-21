@@ -74,6 +74,14 @@
           "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "Madrid",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
