@@ -12,66 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "Zamora - Guadalajara",
-          "info": "18:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Valencia - Osasuna",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Betis - Sevilla",
-          "info": "18:30",
+          "name": "Real Madrid - Getafe",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Hypermotion",
-          "info": "",
+          "name": "Sporting - Leganés",
+          "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Mirandés - Ceuta",
-          "info": "16:15",
+          "name": "Córdoba - Andorra",
+          "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Arsenal - Chelsea",
-          "info": "17:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Fulham - Tottenham",
-          "info": "15:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Newell's Old Boys - Rosario Central",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
           "referer": "",
           "userAgent": ""
         }
