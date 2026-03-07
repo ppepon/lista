@@ -12,18 +12,50 @@
       "info": "",
       "stations": [
         {
-          "name": "Premier League Brighton - Arsenal",
-          "info": "20:45",
+          "name": "Liga 2",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Manchester City - Nottingham Forest",
-          "info": "20:45",
+          "name": "Athletic - Barcelona",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hypermotion",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hypermotion 2",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "1ª RFEF",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "LIGA SAUDÍ Al Nasser - Neom",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "referer": "",
           "userAgent": ""
         }
