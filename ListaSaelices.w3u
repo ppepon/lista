@@ -12,18 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Liga 2",
+          "name": "1ª RFEF",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Athletic - Barcelona",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
           "referer": "",
           "userAgent": ""
         },
@@ -36,26 +28,34 @@
           "userAgent": ""
         },
         {
-          "name": "Hypermotion 2",
-          "info": "",
+          "name": "Leganés - Eibar",
+          "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "1ª RFEF",
+          "name": "LALIGA EA",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "LIGA SAUDÍ Al Nasser - Neom",
-          "info": "20:00",
+          "name": "Sevilla - Rayo",
+          "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Génova - Roma",
+          "info": "18:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://d23497596720b47b096ec0f850d6d26a19d1a336",
           "referer": "",
           "userAgent": ""
         }
