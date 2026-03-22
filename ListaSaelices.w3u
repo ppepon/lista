@@ -12,31 +12,31 @@
       "info": "",
       "stations": [
         {
-          "name": "PREMIER LEAGUE",
-          "info": "",
+          "name": "PREMIER LEAGUE Newcastle - Sunderland",
+          "info": "13:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "1ª RFEF",
-          "info": "",
+          "name": "1ª RFEF Algeciras - Gimnàstic",
+          "info": "12:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Hypermotion",
-          "info": "",
+          "name": "LALIGA HYPERMOTION Burgos - Córdoba",
+          "info": "14:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Andorra - Eibar",
+          "name": "Real Sociedad B - Granada",
           "info": "16:15",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
@@ -44,24 +44,16 @@
           "userAgent": ""
         },
         {
-          "name": "Levante - Oviedo",
-          "info": "18:30",
+          "name": "LALIGA EA SPORTS Barcelona - Rayo",
+          "info": "14:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Espanyol - Getafe",
+          "name": "Celta - Alavés",
           "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://635b61c1f240449163260cd914d10d886a54fee3",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Liga",
-          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
