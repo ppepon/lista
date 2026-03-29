@@ -12,10 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "LALIGA HYPERMOTION Castellón - Cultural",
-          "info": "20:30",
+          "name": "G.P. AUSTIN MotoGP",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://1f75d92098580443857caa95a719103cb83781b0",
+          "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
           "referer": "",
           "userAgent": ""
         }
