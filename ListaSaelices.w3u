@@ -12,66 +12,50 @@
       "info": "",
       "stations": [
         {
-          "name": "Vmos",
+          "name": "1ª RFEF",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://476b6f6583517bd75c15c4663bf45fab7c8da9cf",
+          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Atlético de Madrid - Barcelona",
+          "name": "Alavés - Osasuna",
           "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Mallorca - Real Madrid",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "LIGA",
-          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Betis - Espanyol",
+          "name": "Oviedo - Sevilla",
           "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Hypermotion",
-          "info": "",
+          "name": "Valencia - Celta",
+          "info": "16:15",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Zaragoza - Mirandés",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Cultural - Valladolid",
+          "name": "Almería - Leganés",
           "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "1ª RFEF",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
+          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
           "referer": "",
           "userAgent": ""
         }
