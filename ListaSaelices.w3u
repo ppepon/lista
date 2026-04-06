@@ -12,50 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "1ª RFEF",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Alavés - Osasuna",
+          "name": "LALIGA EA SPORTS Girona - Villarreal",
           "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Oviedo - Sevilla",
-          "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Valencia - Celta",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Zaragoza - Mirandés",
-          "info": "21:00",
+          "name": "LALIGA HYPERMOTION Castellón - Granada",
+          "info": "19:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Almería - Leganés",
-          "info": "18:30",
+          "name": "Sporting - Real Sociedad B",
+          "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
+          "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
           "referer": "",
           "userAgent": ""
         }
