@@ -12,26 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "LALIGA EA SPORTS Girona - Villarreal",
+          "name": "UEFA Champions League Real Madrid - Bayern Múnich",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "LALIGA HYPERMOTION Castellón - Granada",
-          "info": "19:00",
+          "name": "Sporting Portugal - Arsenal",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Sporting - Real Sociedad B",
-          "info": "20:30",
+          "name": "Multichampions",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55",
+          "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
           "referer": "",
           "userAgent": ""
         }
