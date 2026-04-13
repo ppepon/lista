@@ -12,48 +12,24 @@
       "info": "",
       "stations": [
         {
-          "name": "1ª RFEF",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Celta - Oviedo",
-          "info": "18:30",
+          "name": "LALIGA EA SPORTS Levante - Getafe",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Athletic - Villarreal",
+          "name": "LALIGA HYPERMOTION Valladolid - Eibar",
+          "info": "20:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Premier League Manchester Utd. - Leeds",
           "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hypermotion",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Mirandés - Castellón",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "PREMIER LEAGUE",
-          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
           "referer": "",
