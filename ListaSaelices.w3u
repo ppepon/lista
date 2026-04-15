@@ -12,15 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "Real Madrid Castilla - Ourense",
-          "info": "17:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "At. Madrid - Barcelona",
+          "name": "Bayern Múnich - Real Madrid",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
@@ -28,7 +20,7 @@
           "userAgent": ""
         },
         {
-          "name": "Liverpool - PSG",
+          "name": "Arsenal - Sporting Portugal",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
