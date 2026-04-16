@@ -42,6 +42,14 @@
           "url": "acestream://91ac4585368992720ec17ffa5b4389368c6dcac1",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "Real Madrid - Estrella Roja",
+          "info": "20:45",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
