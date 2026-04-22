@@ -12,66 +12,34 @@
       "info": "",
       "stations": [
         {
-          "name": "Real Madrid - Alavés",
-          "info": "21:30",
+          "name": "LALIGA EA SPORTS Elche - Atlético de Madrid",
+          "info": "19:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Mallorca - Valencia",
-          "info": "19:00",
+          "name": "Real Sociedad - Getafe",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Barcelona - Celta",
+          "info": "21:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Inter - Como",
+          "name": "PREMIER LEAGUE Burnley - Manchester City",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Brighton - Chelsea",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Madrid Alavés",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Madrid Alavés",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://cc108ae39f92c48f6c946763047bd1c9b7b7d889",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Madrid",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4955867fad3bc92e5b4c36045699fc277800fb18",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Madrid",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9",
+          "url": "acestream://7ba1f321f4d0791b7ebd42f41a07c1cd1479e784",
           "referer": "",
           "userAgent": ""
         }
