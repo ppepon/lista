@@ -58,6 +58,22 @@
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "Toronto Raptors - Cleveland Cavaliers",
+          "info": "19:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Portland Trail Blazers - San Antonio Spurs",
+          "info": "21:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
