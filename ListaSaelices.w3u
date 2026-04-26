@@ -12,18 +12,50 @@
       "info": "",
       "stations": [
         {
-          "name": "Rayo - Espanyol",
-          "info": "20:00",
+          "name": "1ª RFEF",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Oviedo - Villarreal",
-          "info": "21:30",
+          "name": "Hypermotion",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hypermotion 2",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Rayo - Real Sociedad",
+          "info": "14:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Oviedo - Elche",
+          "info": "16:15",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Villarreal - Celta",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         }
