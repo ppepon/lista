@@ -12,66 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "1ª RFEF",
-          "info": "",
+          "name": "Liga Saudí Al Hilal - Damac",
+          "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Hypermotion",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hypermotion 2",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://a5b9d834ad92bfb80fe01bf89cc20bd68be199fb",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Rayo - Real Sociedad",
-          "info": "14:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Oviedo - Elche",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://c976c7b37964322752db562b4ad65515509c8d36",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Villarreal - Celta",
+          "name": "Liga de Campeones Psg-Bayer",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Toronto Raptors - Cleveland Cavaliers",
-          "info": "19:00",
+          "name": "Psg-Bayer",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Portland Trail Blazers - San Antonio Spurs",
-          "info": "21:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://02ec118ee4586d96df9115ffc486be9a499d00d9",
+          "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
           "referer": "",
           "userAgent": ""
         }
