@@ -12,15 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "Liga Saudí Al Hilal - Damac",
-          "info": "20:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Liga de Campeones Psg-Bayer",
+          "name": "Liga de Campeones Atlético Madrid - Arsenal",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
@@ -28,10 +20,18 @@
           "userAgent": ""
         },
         {
-          "name": "Psg-Bayer",
+          "name": "Atlético Madrid - Arsenal",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Atlético Madrid - Arsenal M+",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
           "referer": "",
           "userAgent": ""
         }
