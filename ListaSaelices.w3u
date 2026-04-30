@@ -12,7 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "Liga de Campeones Atlético Madrid - Arsenal",
+          "name": "CONFERENCE LEAGUE Rayo - Estrasburgo",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
@@ -20,7 +20,7 @@
           "userAgent": ""
         },
         {
-          "name": "Atlético Madrid - Arsenal",
+          "name": "Rayo - Estrasburgo",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920",
@@ -28,10 +28,18 @@
           "userAgent": ""
         },
         {
-          "name": "Atlético Madrid - Arsenal M+",
-          "info": "",
+          "name": "Rayo - Estrasburgo",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "EUROPA LEAGUE Nottingham Forest - Aston Villa",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5",
           "referer": "",
           "userAgent": ""
         }
