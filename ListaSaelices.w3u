@@ -12,64 +12,16 @@
       "info": "",
       "stations": [
         {
-          "name": "1ª RFEF",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hipermotion",
-          "info": "",
+          "name": "Almería - Mirandés",
+          "info": "20:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://fc129b39c253b887563c3f0dce5fca7e699c3047",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Espanyol - Real Madrid",
+          "name": "Everton - Manchester City",
           "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Movistar",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Getafe - Rayo",
-          "info": "16:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Betis - Oviedo",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Bournemouth - Crystal Palace",
-          "info": "15:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Aston Villa - Tottenham",
-          "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
           "referer": "",
