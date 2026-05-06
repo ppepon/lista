@@ -12,23 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "Euroliga de baloncesto Hapoel Tel Aviv - Real Madrid",
-          "info": "18:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Panathinaikos - Valencia",
-          "info": "20:15",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "CHAMPIONS League Arsenal- Atlético Madrid",
+          "name": "CHAMPIONS LEAGUE Bayern Múnich - PSG",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
