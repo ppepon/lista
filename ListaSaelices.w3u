@@ -12,10 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "CHAMPIONS LEAGUE Bayern Múnich - PSG",
+          "name": "Estrasburgo - Rayo",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Aston Villa - Nottingham Forest",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
           "referer": "",
           "userAgent": ""
         }
