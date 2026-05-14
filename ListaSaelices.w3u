@@ -12,10 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "EUROLIGA Valencia - Panathinaikos",
-          "info": "21:00",
+          "name": "LALIGA EA SPORTS Valencia - Rayo",
+          "info": "19:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://7e4f6eb38e0d5ef52b7f8b96eb80c1d8c87dad16",
+          "url": "acestream://465075c02b7284f564911bd63d1c6f0a8d464be7",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Girona - Real Sociedad",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Real Madrid - Oviedo",
+          "info": "21:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
           "referer": "",
           "userAgent": ""
         }
