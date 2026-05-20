@@ -12,18 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Premier League Bournemouth - Manchester City",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Chelsea - Tottenham",
+          "name": "EUROPA LEAGUE Friburgo - Aston Villa",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+          "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
           "referer": "",
           "userAgent": ""
         }
