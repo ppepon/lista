@@ -12,10 +12,26 @@
       "info": "",
       "stations": [
         {
-          "name": "EUROPA LEAGUE Friburgo - Aston Villa",
-          "info": "21:00",
+          "name": "Valencia - Real Madrid",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Valencia - Real Madrid",
+          "info": "20:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "HLA Alicante - Movistar Estudiantes",
+          "info": "20:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://22b702984a0db43fd371c30e2df150b2336551cd",
           "referer": "",
           "userAgent": ""
         }
