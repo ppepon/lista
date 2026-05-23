@@ -50,6 +50,14 @@
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
+        },
+        {
+          "name": "R.Madrid",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://f863873de9f7b2996dde19a0657dd89835af3007",
+          "referer": "",
+          "userAgent": ""
         }
       ]
     },
