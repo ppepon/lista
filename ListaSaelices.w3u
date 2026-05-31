@@ -12,34 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Moto GP",
+          "name": "Hipermotion",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://18b03739d660f0066364343e226e437bf2555d56",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "MOTO GP ITALIA",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "MOTO GP ITALIA 2",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Dzon 2",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516",
+          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
           "referer": "",
           "userAgent": ""
         }
