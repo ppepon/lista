@@ -12,10 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "Hipermotion",
-          "info": "",
+          "name": "LIGA ENDESA Barcelona - UCAM Murcia",
+          "info": "19:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f",
+          "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "La Laguna Tenerife - Real Madrid",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac",
           "referer": "",
           "userAgent": ""
         }
