@@ -12,18 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "LIGA ENDESA Barcelona - UCAM Murcia",
-          "info": "19:00",
+          "name": "Mundial F1 - GP de Barcelona-Cataluña F1",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "La Laguna Tenerife - Real Madrid",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://fc912a111ea5a88e02b858b5014d2358b11c84ac",
+          "url": "acestream://724f9b252b11064e3f16220717fd52bd3a510b5f",
           "referer": "",
           "userAgent": ""
         }
