@@ -12,10 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "F1 opción 2",
+          "name": "TVE4k",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://0a81ba020d498aca1248e0591d8ffab99eb80bd4",
+          "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
           "referer": "",
           "userAgent": ""
         }
