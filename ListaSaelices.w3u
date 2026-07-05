@@ -12,34 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "TVE4k",
+          "name": "CAMPEONATO DEL MUNDO Dzn mundial",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://da38a21a9509be8c03b0fdb539cb1485843330c3",
+          "url": "acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Dzn mundial",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Dzn mundial Op2",
+          "name": "Dzn mundial Opción 2",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Mundial 2",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://dac18df259f44258d81aa8f31cb343bb837f5ac7",
           "referer": "",
           "userAgent": ""
         }
