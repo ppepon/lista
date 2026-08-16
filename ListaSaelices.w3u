@@ -12,26 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "Dzn mundial",
+          "name": "Eusport 1",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065",
+          "url": "acestream://8522af51ae7189b12effabbb448dcb707195ce1a",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Dzn mundial Op2",
+          "name": "Eusport 2",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://ccfde4bc75d14c79dd09af72434568a0e732d507",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Dzn mundial Op3",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36",
+          "url": "acestream://3ebcfc00921a4a9307dec97e078f8dc12eee27e7",
           "referer": "",
           "userAgent": ""
         }
