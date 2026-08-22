@@ -12,26 +12,42 @@
       "info": "",
       "stations": [
         {
-          "name": "Betis - R. Sociedad",
-          "info": "21:00",
+          "name": "PREMIER LEAGUE",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "LALIGA EA SPORTS",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "LALIGA HYPERMOTION Córdoba - Girona",
-          "info": "21:00",
+          "name": "Espanyol - Real Madrid",
+          "info": "21:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hipermotion",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "PREMIER LEAGUE Arsenal - Coventry City",
-          "info": "21:00",
+          "name": "Albacete - Real Sociedad B",
+          "info": "19:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151",
+          "url": "acestream://e63fbcafbfc9bcb7e1cffa1d2eea97cc77f7a198",
           "referer": "",
           "userAgent": ""
         }
