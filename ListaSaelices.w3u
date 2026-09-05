@@ -12,10 +12,34 @@
       "info": "",
       "stations": [
         {
-          "name": "Real Betis - Real Madrid",
-          "info": "21:00",
+          "name": "1ª RFEF",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hipermotion",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "LALIGA EA SPORTS",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Rayo Vallecano - R. Racing Club",
+          "info": "18:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
           "referer": "",
           "userAgent": ""
         }
