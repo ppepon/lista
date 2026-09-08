@@ -12,42 +12,18 @@
       "info": "",
       "stations": [
         {
-          "name": "1ª RFEF",
+          "name": "Real Madrid - Inter",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Madrid",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://854ff9c607101791346111cd2366a392c3b8c351",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hipermotion",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "LALIGA EA SPORTS",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Rayo Vallecano - R. Racing Club",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Alavés - Osasuna",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe",
+          "url": "acestream://67121cbb722b88ce4489717e9a87a26f60184ec9",
           "referer": "",
           "userAgent": ""
         }
