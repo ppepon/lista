@@ -12,18 +12,10 @@
       "info": "",
       "stations": [
         {
-          "name": "Sporting Hortaleza vs Sevilla FC M. La Liga",
+          "name": "Liga",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://623f9ce3c4adfcd9771da41a6cc433632cf2c680",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Sporting Hortaleza vs Sevilla FC M. La Liga",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929",
           "referer": "",
           "userAgent": ""
         }
