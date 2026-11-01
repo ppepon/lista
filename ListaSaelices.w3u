@@ -12,10 +12,42 @@
       "info": "",
       "stations": [
         {
-          "name": "Liga",
+          "name": "Racing - Real Madrid",
+          "info": "16:15",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Racing - Real Madrid",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://2772b75c3bc7cfe214514a7745f63024620f3a29",
+          "url": "acestream://8c0fa8c0f1be146dcc64a94e37c64993df86c72a",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Elche CF - Valencia CF",
+          "info": "18:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Elche CF - Valencia CF",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Liverpool - Arsenal",
+          "info": "17:30",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://67121cbb722b88ce4489717e9a87a26f60184ec9",
           "referer": "",
           "userAgent": ""
         }
