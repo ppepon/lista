@@ -12,50 +12,42 @@
       "info": "",
       "stations": [
         {
-          "name": "Racing - Real Madrid",
-          "info": "16:15",
+          "name": "At. Madrid - Bayern Múnich",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb",
+          "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Racing - Real Madrid",
+          "name": "Barcelona - Aston Villa",
+          "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://112bdbce0d1e433dbe463896efeb29c49399897b",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Barcelona - Aston Villa",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://8c0fa8c0f1be146dcc64a94e37c64993df86c72a",
+          "url": "acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Elche CF - Valencia CF",
-          "info": "18:30",
+          "name": "Villarreal - PSG",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7",
+          "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Elche CF - Valencia CF",
+          "name": "Multichampios",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Liverpool - Arsenal",
-          "info": "17:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://67121cbb722b88ce4489717e9a87a26f60184ec9",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Hypermotion",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://135c420f704d717b8913b2a66b2722fd6b2c127c",
+          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
           "referer": "",
           "userAgent": ""
         }
