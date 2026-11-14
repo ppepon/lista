@@ -12,23 +12,15 @@
       "info": "",
       "stations": [
         {
-          "name": "Murcia - Algeciras",
-          "info": "20:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://6eaca014b2386529762a4cdca826cee04b491fb6",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Real Sporting - Real Valladolid CF",
-          "info": "18:30",
+          "name": "Real Oviedo - Girona FC",
+          "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://135c420f704d717b8913b2a66b2722fd6b2c127c",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "UD Las Palmas - CD Eldense",
+          "name": "UD Almería - FC Andorra",
           "info": "18:30",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://a794108ea5f110aa307ccf3cbb95140098153fef",
@@ -36,42 +28,10 @@
           "userAgent": ""
         },
         {
-          "name": "Villarreal - Getafe",
-          "info": "18:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://599fb52eba4bd937b2029210bdeca9f1a34a32da",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Villarreal - Getafe",
+          "name": "1ª RFrf",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Atlético Madrid - Barcelona",
-          "info": "21:00",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://7108ad98920a87cc7dc857748e69a5d725890b98",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Atlético Madrid - Barcelona",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Manchester Utd. - Aston Villa",
-          "info": "17:30",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://86262568aa72b956b06ac67b1c310a32248a0e98",
+          "url": "acestream://6eaca014b2386529762a4cdca826cee04b491fb6",
           "referer": "",
           "userAgent": ""
         }
