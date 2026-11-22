@@ -12,7 +12,47 @@
       "info": "",
       "stations": [
         {
-          "name": "Real Madrid - Celta",
+          "name": "1ª RFEF",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://eb1a92754ca21883e4473646eed3a5d69202e629",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hypermotion",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://135c420f704d717b8913b2a66b2722fd6b2c127c",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Hypermotion 2",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://a794108ea5f110aa307ccf3cbb95140098153fef",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Barcelona - Villarreal",
+          "info": "14:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "LALIGA EA SPORTS",
+          "info": "",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Getafe CF - Atlético de Madrid",
           "info": "21:00",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422",
@@ -20,18 +60,10 @@
           "userAgent": ""
         },
         {
-          "name": "Real Madrid - Celta",
+          "name": "La Liga",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7",
-          "referer": "",
-          "userAgent": ""
-        },
-        {
-          "name": "Real Madrid - Celta 3",
-          "info": "",
-          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://a2f9ab273087b85de84212d92dd895f37052cf62",
           "referer": "",
           "userAgent": ""
         }
