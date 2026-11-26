@@ -12,7 +12,7 @@
       "info": "",
       "stations": [
         {
-          "name": "UEFA Champions League Sabah - Barcelona",
+          "name": "EUROPA LEAGUE Celta - Bournemouth",
           "info": "18:45",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370",
@@ -20,26 +20,34 @@
           "userAgent": ""
         },
         {
-          "name": "At. Madrid - Viking",
+          "name": "Crystal Palace - Real Sociedad",
           "info": "21:00",
+          "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
+          "url": "acestream://9e5da99bac88a4a3ed200d3bdf260b683145ca57",
+          "referer": "",
+          "userAgent": ""
+        },
+        {
+          "name": "Europa League + Conference Iberia Tbilisi - Getafe",
+          "info": "18:45",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://040cedb1ed1f571b6b2c87c078d3a24b47d19925",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Slavia Praga - Villarreal",
-          "info": "18:45",
+          "name": "Multi Europa League",
+          "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
           "url": "acestream://c6c9cd6cf39c3fe04d2ca3152f6ee13714cd390b",
           "referer": "",
           "userAgent": ""
         },
         {
-          "name": "Multichampions Campeones 4",
+          "name": "Multi Europa",
           "info": "",
           "image": "https://i.postimg.cc/wv6pvckC/La-Liga2-new.png",
-          "url": "acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661",
+          "url": "acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373",
           "referer": "",
           "userAgent": ""
         }
